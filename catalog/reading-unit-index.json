@@ -1,0 +1,4514 @@
+[
+  {
+    "id": "LOCAL-W000084-DFXF2010",
+    "title": "范烈士鸿仙先生行状",
+    "work_id": "LWD-W000084",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整覆盖2010选本所载行状及末署；不据此判定原刊全部版本或独立撰稿责任。"
+  },
+  {
+    "id": "LOCAL-W000053-DFXF2010",
+    "title": "难易乙玄君",
+    "work_id": "LWD-W000053",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整覆盖2010选本本篇五页，保留篇首叔雅识、来论引文与答辩结构；尚未据1918原刊复校。"
+  },
+  {
+    "id": "LOCAL-W000014-DFXF2010",
+    "title": "唐淮源将军庙碑",
+    "work_id": "LWD-W000014",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": null
+  },
+  {
+    "id": "LOCAL-W000015-DFXF2010",
+    "title": "重修玉溪大桥记",
+    "work_id": "LWD-W000015",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": null
+  },
+  {
+    "id": "LOCAL-W000016-DFXF2010",
+    "title": "李仪廷将军七旬寿序",
+    "work_id": "LWD-W000016",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": null
+  },
+  {
+    "id": "LWD-W000048",
+    "title": "最容易读错的几个成语",
+    "work_id": "LWD-W000048",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": null
+  },
+  {
+    "id": "LWD-W000054",
+    "title": "军国主义",
+    "work_id": "LWD-W000054",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整范围为2010选本所收《军国主义》印61—67七页，不声明已校原刊或其他版本。"
+  },
+  {
+    "id": "LOCAL-W000055-DFXF2010",
+    "title": "欧洲战争与青年之觉悟",
+    "work_id": "LWD-W000055",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整覆盖2010选本本篇印54—60/PDF62—68；前页为叔本华篇末，后页为军国主义篇首。未宣称已据1916原刊逐字校订。"
+  },
+  {
+    "id": "LWD-W000056",
+    "title": "唯物唯心得失论",
+    "work_id": "LWD-W000056",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "本次完整范围为2010年选本所收本文十三页；未与1915年《甲寅》原刊逐字对校，也不声明原刊所附参考书目已收齐。"
+  },
+  {
+    "id": "LWD-W000059",
+    "title": "怎样叫做中西学术之沟通",
+    "work_id": "LWD-W000059",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": null
+  },
+  {
+    "id": "LWD-W000060",
+    "title": "我的思想变迁史",
+    "work_id": "LWD-W000060",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": null
+  },
+  {
+    "id": "LWD-W000095",
+    "title": "天地间最可怕的东西——不知道",
+    "work_id": "LWD-W000095",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整范围为2010选本所收本文五页；没有与《中央日报》原刊逐字对校。"
+  },
+  {
+    "id": "LWD-W000101",
+    "title": "美日太平洋大战和小说",
+    "work_id": "LWD-W000101",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整范围为2010选本所收本文五页；选本正文存在十三个原印方框，并不意味着十三处缺文已补齐。"
+  },
+  {
+    "id": "LWD-W000102",
+    "title": "日寇最阴毒的地方",
+    "work_id": "LWD-W000102",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整范围为2010选本所收本文四页；十三个原印方框仍保留，缺文未补齐。"
+  },
+  {
+    "id": "LWD-W000104",
+    "title": "日本败后我们该怎样对他",
+    "work_id": "LWD-W000104",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": null
+  },
+  {
+    "id": "LOCAL-W000018-DFXF2010",
+    "title": "历代循吏史实",
+    "work_id": "LWD-W000018",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整录入2010选本所载三页讲演记录，含1946年6月5日署日；结尾说“以后再为分别讲述”，所据选本到此结束。未由此声称原始档案或后续讲演完整。"
+  },
+  {
+    "id": "LWD2013-V5-JIJUCHENFU-LAOSHENGCHANGTAN",
+    "title": "幾句陳腐的老生常談",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "本書所收《幾句陳腐的老生常談》全文；按2013輯載本篇界，不代表已核1946年《雲南日報》原刊。"
+  },
+  {
+    "id": "LWD2013-V5-KANGZHAN-SHENGQING",
+    "title": "關於歸還抗戰期間被劫書籍的聲請",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "PDF400 原印聲請全文；PDF401 編者按語與下一篇另列，不入作者正文。"
+  },
+  {
+    "id": "LWD2013-V5-TI-LIU-SHENSHU-YISHU",
+    "title": "題劉申叔遺書",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "本書所收《題劉申叔遺書》全文；據2013輯載本，不代表已核手稿原件。"
+  },
+  {
+    "id": "LWD2013-V5-SIXIANGZONGJIE",
+    "title": "思想總結",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "本書所收《思想總結》全文；據2013輯載本，未核1953年履歷表原件。"
+  },
+  {
+    "id": "LWD2013-V5-PIPAN-ZICHANJIEJI-WEIXINLUN",
+    "title": "我對批判資產階級唯心論思想的體會",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "2013年增訂本所收本篇全文；未核1954年《雲南大學校刊》原件。"
+  },
+  {
+    "id": "LWD2013-V5-YUNDA-JIAOXUE-JIAOLIU",
+    "title": "在雲大學習教學環節體會交流會上的發言",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "2013年增訂本所收本篇全文；未核1955年《雲南大學校刊》原件。"
+  },
+  {
+    "id": "LWD2013-V5-DUI-KETANG-JIANGSHOU-TIHUI",
+    "title": "對課堂講授的體會",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "2013年增訂本所收本篇全文；未核1955年《雲南大學校刊》原件。"
+  },
+  {
+    "id": "LWD2013-V5-WOGUO-XUESHUJIE-DAXISHI",
+    "title": "我國學術界的大喜事",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "2013年增訂本第五冊所收本篇全文（PDF424–425）；未核原報。"
+  },
+  {
+    "id": "LWD2013-V5-YUNNAN-TONGZHAN-1957-05",
+    "title": "在中共雲南省委統戰部各民主黨派負責人座談會上的發言",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "2013年增訂本所收本篇全文；未核1957年原報。"
+  },
+  {
+    "id": "LWD2013-V5-GUOQING-1957-09",
+    "title": "今年國慶的感想",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "2013年增訂本所收本篇全文；未核1957年原報。"
+  },
+  {
+    "id": "LWD2013-V5-WODEJIANCHA",
+    "title": "我的檢查",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "2013年增訂本所收《我的檢查》全文，四節；不包括《第二次檢查》。"
+  },
+  {
+    "id": "LWD2013-V5-DIERCIJIANCHA",
+    "title": "第二次檢查",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "本篇按2013增訂本所收文字全篇錄入，起訖為 PDF450–465；未以後出輯載來源代替底本。"
+  },
+  {
+    "id": "LWD2013-V5-YUNDACHINESE-JIAOGAI-FAYAN",
+    "title": "在雲大中文系教改動員會上的發言",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "本篇按2013增訂本所收兩頁文字全篇錄入；PDF467 空白，PDF468 起《書信輯存》。"
+  },
+  {
+    "id": "LWD2013-V5-SHIJIEYU-KECHENG-TIYI",
+    "title": "關於北大中文系應先列入世界語課程的提議",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "2013輯本所收此項提議全文（稱呼、提議、理由、六名提議人及日期）；不含編者檔案來源註；未比對北京大學檔案原件。"
+  },
+  {
+    "id": "LWD2013-V5-FANDUI-ZHANGSHIZHAO-XUANYAN",
+    "title": "反對章士釗的宣言",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "2013 輯本所收本篇題名、五段宣言及原頁節錄的聯名署名；原頁以省略點略去其餘署名，故不是四十一人完整姓名錄；不含編者《晨報》輯載來源註；未核《晨報》原刊。"
+  },
+  {
+    "id": "LWD2013-V1-HNHLJJ-YUANDAO",
+    "title": "淮南鴻烈集解·原道訓",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整本版《原道訓》PDF53–94本文與隨文集解；PDF94–95二十條編者校記另層，共43個源頁位置。"
+  },
+  {
+    "id": "LWD2013-V1-HNHLJJ-CHUZHEN",
+    "title": "淮南鴻烈集解·俶真訓",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整本版《俶真訓》PDF97–131本文與隨文集解；PDF131–132二十一條編者校記另層，共36個源頁位置。"
+  },
+  {
+    "id": "LWD2013-V1-HNHLJJ-TIANWEN",
+    "title": "淮南鴻烈集解·天文訓",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整本版《天文訓》52個源頁位置；整頁圖及23條編者校記另層。"
+  },
+  {
+    "id": "LWD2013-V1-HNHLJJ-DIXING",
+    "title": "淮南鴻烈集解·墬形訓",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整本版《墬形訓》32個源頁位置；29條編者校記另層，191額外印號對應未定。"
+  },
+  {
+    "id": "LWD2013-V1-HNHLJJ-SHIZE",
+    "title": "淮南鴻烈集解·時則訓",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整本版《時則訓》34個源頁位置；23條編者校記另層，218及231額外印號對應未定。"
+  },
+  {
+    "id": "LWD2013-V1-HNHLJJ-LANMING",
+    "title": "淮南鴻烈集解·覽冥訓",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整本版《覽冥訓》28個源頁位置；11條編者校記另層，正文11處印號按原文位置對應。"
+  },
+  {
+    "id": "LWD2013-V1-HNHLJJ-JINGSHEN",
+    "title": "淮南鴻烈集解·精神訓",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整本版《精神訓》27個源頁位置；15條編者校記另層，正文15處印號按原文位置對應。"
+  },
+  {
+    "id": "LWD2013-V1-HNHLJJ-BENJING",
+    "title": "淮南鴻烈集解·本經訓",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整本版《本經訓》26個源頁位置；11條編者校記另層，正文12處印號中11處按原位對應，319額外五關聯待核。"
+  },
+  {
+    "id": "LWD2013-V1-HNHLJJ-ZHUSHU",
+    "title": "淮南鴻烈集解·主術訓",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整本版《主術訓》52個源頁位置；28條編者校記另層，28處正文印號按原位對應；381一段小字責任層仍待核。"
+  },
+  {
+    "id": "LWD2013-V1-HNHLJJ-MIAOCHENG",
+    "title": "淮南鴻烈集解·繆稱訓",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整本版《繆稱訓》29個源頁位置；21條編者校記另層，21處正文印號按原位對應。"
+  },
+  {
+    "id": "LWD2013-V1-HNHLJJ-QISU",
+    "title": "淮南鴻烈集解·齊俗訓",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整本版《齊俗訓》37個源頁位置；20條編者校記另層，20處正文印號按原位對應。"
+  },
+  {
+    "id": "LWD2013-V1-HNHLJJ-DAOYING",
+    "title": "淮南鴻烈集解·道應訓",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整本版《道應訓》46個源頁位置；10條編者校記另層，10處正文印號按原位對應。"
+  },
+  {
+    "id": "LWD2013-V1-HNHLJJ-YAOLUE",
+    "title": "淮南鴻烈集解·要略",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整本版《要略》14頁本文與隨文集解；末頁四條編者校記另層。"
+  },
+  {
+    "id": "DFXF2010-HUSHI-H01",
+    "title": "致胡适（一，十月十六日）",
+    "work_id": "LWD-W000106",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "2010选本编号一单元，自称呼至署名、署日；不据此确认手稿或初刊完整。"
+  },
+  {
+    "id": "DFXF2010-HUSHI-H02",
+    "title": "致胡适（二，十月九日辰刻）",
+    "work_id": "LWD-W000107",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "2010选本编号二单元，自称呼至署名、署日；不据此确认手稿或初刊完整。"
+  },
+  {
+    "id": "DFXF2010-HUSHI-H03",
+    "title": "致胡适（三，星期二灯下）",
+    "work_id": "LWD-W000108",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "2010选本编号三单元，自称呼至署名、署日；不据此确认手稿或初刊完整。"
+  },
+  {
+    "id": "DFXF2010-HUSHI-H04",
+    "title": "致胡适（四，二月廿二日）",
+    "work_id": "LWD-W000109",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "2010选本编号四单元，自称呼至署名、署日；不据此确认手稿或初刊完整。"
+  },
+  {
+    "id": "DFXF2010-HUSHI-H05",
+    "title": "致胡适（五，十月卅一日）",
+    "work_id": "LWD-W000110",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "2010选本编号五单元，自称呼至署名、署日；不据此确认手稿或初刊完整。"
+  },
+  {
+    "id": "DFXF2010-HUSHI-H06",
+    "title": "致胡适（六，十月廿二日）",
+    "work_id": "LWD-W000111",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "2010选本编号六单元，自称呼至署名、署日；不据此确认手稿或初刊完整。"
+  },
+  {
+    "id": "DFXF2010-HUSHI-H07",
+    "title": "致胡适（七，十二月八日）",
+    "work_id": "LWD-W000112",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "2010选本编号七单元，自称呼至署名、署日；不据此确认手稿或初刊完整。"
+  },
+  {
+    "id": "DFXF2010-HUSHI-H08",
+    "title": "致胡适（八，星期一）",
+    "work_id": "LWD-W000113",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "2010选本编号八单元，自称呼至署名、署日；不据此确认手稿或初刊完整。"
+  },
+  {
+    "id": "DFXF2010-HUSHI-H09",
+    "title": "致胡适（九，廿五日）",
+    "work_id": "LWD-W000114",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "2010选本编号九单元，自称呼至署名、署日；不据此确认手稿或初刊完整。"
+  },
+  {
+    "id": "DFXF2010-HUSHI-H10",
+    "title": "致胡适（十，即刻）",
+    "work_id": "LWD-W000115",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "2010选本编号十单元，自称呼至署名、署日及署后补语；不据此确认手稿或初刊完整。"
+  },
+  {
+    "id": "DFXF2010-HUSHI-H11",
+    "title": "致胡适（十一，三日）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录2010选本的本编号书信单元，含称呼、署名、署日及所附文字；未据手稿或初刊确认原信完整性。"
+  },
+  {
+    "id": "DFXF2010-HUSHI-H12",
+    "title": "致胡适（十二，二月二日）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录2010选本的本编号书信单元，含称呼、署名、署日及所附文字；未据手稿或初刊确认原信完整性。"
+  },
+  {
+    "id": "DFXF2010-HUSHI-H13",
+    "title": "致胡适（十三，十一月廿三日）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录2010选本的本编号书信单元，含称呼、署名、署日及所附文字；未据手稿或初刊确认原信完整性。"
+  },
+  {
+    "id": "DFXF2010-HUSHI-H14",
+    "title": "致胡适（十四，国民代表打国民的那天晚上）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录2010选本的本编号书信单元，含称呼、署名、署日及所附文字；未据手稿或初刊确认原信完整性。"
+  },
+  {
+    "id": "DFXF2010-HUSHI-H15",
+    "title": "致胡适（十五，二月廿六日）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录2010选本的本编号书信单元，含称呼、署名、署日及所附文字；未据手稿或初刊确认原信完整性。"
+  },
+  {
+    "id": "DFXF2010-HUSHI-H16",
+    "title": "致胡适（十六，三月一日）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录2010选本此编号源单元，含本单元可见称呼、署名、署日及附件；未据手稿或初刊确认原信完整性。"
+  },
+  {
+    "id": "DFXF2010-HUSHI-H17",
+    "title": "致胡适（十七，十七日）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录2010选本此编号源单元，含本单元可见称呼、署名、署日及附件；未据手稿或初刊确认原信完整性。"
+  },
+  {
+    "id": "DFXF2010-HUSHI-H18",
+    "title": "致胡适（十八，八月十七日）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录2010选本此编号源单元，含本单元可见称呼、署名、署日及附件；未据手稿或初刊确认原信完整性。"
+  },
+  {
+    "id": "DFXF2010-HUSHI-H19",
+    "title": "致胡适（十九，未署日）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录2010选本编号十九所载单元；此单元未见署名署日，且选本编者明确指出中段漫漶不清，不能据此声称原函完整。"
+  },
+  {
+    "id": "DFXF2010-HUSHI-H20",
+    "title": "致胡适（二十，未署日）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录2010选本此编号源单元，含本单元可见称呼、署名、署日及附件；未据手稿或初刊确认原信完整性。"
+  },
+  {
+    "id": "DFXF2010-HUSHI-H21",
+    "title": "致胡适（二十一，未署日）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录2010选本此编号源单元，含本单元可见称呼、署名、署日及附件；未据手稿或初刊确认原信完整性。"
+  },
+  {
+    "id": "DFXF2010-HUSHI-H21U",
+    "title": "致胡适（二十一后未编号短札，未署日）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整录入2010选本二十一与二十二之间的未编号署名短札范围；不据此认定为完整独立原函。所提别纸在本源单元中未见随载。"
+  },
+  {
+    "id": "DFXF2010-HUSHI-H22",
+    "title": "致胡适（二十二，十八日）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录2010选本此编号源单元，含本单元可见称呼、署名、署日及附件；未据手稿或初刊确认原信完整性。"
+  },
+  {
+    "id": "DFXF2010-HUSHI-H23",
+    "title": "致胡适（二十三，星期四）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录2010选本此编号源单元，含本单元可见称呼、署名、署日及附件；未据手稿或初刊确认原信完整性。"
+  },
+  {
+    "id": "DFXF2010-HUSHI-H23U",
+    "title": "致胡适（二十三后未编号附札，未署日）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录2010选本二十三署日之后至二十四标题之前的未编号署名段；暂按附札范围保存，未据手稿或初刊认定为另一封完整原函。"
+  },
+  {
+    "id": "DFXF2010-HUSHI-H24",
+    "title": "致胡适（二十四，即日）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录2010选本的本编号书信单元，含称呼、署名、原印署日及所附文字；未据手稿或初刊确认原信完整性。"
+  },
+  {
+    "id": "DFXF2010-HUSHI-H25",
+    "title": "致胡适（二十五）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录2010选本的本编号书信单元，含称呼、署名、原印署日及所附文字；未据手稿或初刊确认原信完整性。"
+  },
+  {
+    "id": "DFXF2010-HUSHI-H26",
+    "title": "致胡适（二十六）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录2010选本的本编号书信单元，含称呼、署名、原印署日及所附文字；未据手稿或初刊确认原信完整性。"
+  },
+  {
+    "id": "DFXF2010-HUSHI-H27",
+    "title": "致胡适（二十七）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录2010选本的本编号书信单元，含称呼、署名、原印署日及所附文字；未据手稿或初刊确认原信完整性。"
+  },
+  {
+    "id": "DFXF2010-HUSHI-H28",
+    "title": "致胡适（二十八）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录2010选本的本编号书信单元，含称呼、署名、原印署日及所附文字；未据手稿或初刊确认原信完整性。"
+  },
+  {
+    "id": "DFXF2010-HUSHI-H29",
+    "title": "致胡适（二十九，六月十五日）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录2010选本的本编号书信单元，含称呼、署名、原印署日及所附文字；未据手稿或初刊确认原信完整性。"
+  },
+  {
+    "id": "DFXF2010-HUSHI-H30",
+    "title": "致胡适（三十）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录2010选本的本编号书信单元，含称呼、署名、原印署日及所附文字；未据手稿或初刊确认原信完整性。"
+  },
+  {
+    "id": "DFXF2010-HUSHI-H31",
+    "title": "致胡适（三十一）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录2010选本的本编号书信单元，含称呼、署名、原印署日及所附文字；未据手稿或初刊确认原信完整性。"
+  },
+  {
+    "id": "DFXF2010-HUSHI-H32",
+    "title": "致胡适（三十二，即刻）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录2010选本的本编号书信单元，含称呼、署名、原印署日及所附文字；未据手稿或初刊确认原信完整性。"
+  },
+  {
+    "id": "DFXF2010-HUSHI-H33",
+    "title": "致胡适（三十三，五月廿五日）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录2010选本的本编号书信单元，含称呼、署名、原印署日及所附文字；未据手稿或初刊确认原信完整性。"
+  },
+  {
+    "id": "DFXF2010-HUSHI-H34",
+    "title": "致胡适（三十四，二月廿三日）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录2010选本本编号书信单元，含称呼、署名、署日及署后补语；未据手稿或初刊确认原信完整性。"
+  },
+  {
+    "id": "DFXF2010-HUSHI-H35",
+    "title": "致胡适（三十五，十九日）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录2010选本本编号书信单元，含称呼、署名、署日及署后补语；未据手稿或初刊确认原信完整性。"
+  },
+  {
+    "id": "DFXF2010-HUSHI-H36",
+    "title": "致胡适（三六，未署日）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录2010选本本编号书信单元，含称呼、署名、署日及署后补语；未据手稿或初刊确认原信完整性。"
+  },
+  {
+    "id": "DFXF2010-HUSHI-H37",
+    "title": "致胡适（三十七，二月廿五日）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录2010选本本编号书信单元，含称呼、署名、署日及署后补语；未据手稿或初刊确认原信完整性。"
+  },
+  {
+    "id": "DFXF2010-HUSHI-H38",
+    "title": "致胡适（三十八，四月九日灯下）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录2010选本本编号书信单元，含称呼、署名、署日及署后补语；未据手稿或初刊确认原信完整性。"
+  },
+  {
+    "id": "DFXF2010-HUSHI-H39",
+    "title": "致胡适（三十九，十日晨）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录2010选本本编号书信单元，含称呼、署名、署日及署后补语；未据手稿或初刊确认原信完整性。"
+  },
+  {
+    "id": "DFXF2010-HUSHI-H40",
+    "title": "致胡适（四十，四月廿三日）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录2010选本本编号书信单元，含称呼、署名、署日及署后补语；未据手稿或初刊确认原信完整性。"
+  },
+  {
+    "id": "DFXF2010-HUSHI-H41",
+    "title": "致胡适（四十一，十日）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录2010选本本编号书信单元，含称呼、署名、署日及署后补语；未据手稿或初刊确认原信完整性。"
+  },
+  {
+    "id": "DFXF2010-HUSHI-H42",
+    "title": "致胡适（四十二，星期四灯下）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录2010选本本编号书信单元，含称呼、署名、署日及署后补语；未据手稿或初刊确认原信完整性。"
+  },
+  {
+    "id": "DFXF2010-HUSHI-H43",
+    "title": "致胡适（四十三，一月十三日）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录2010选本本编号书信单元，含称呼、署名、署日及署后补语；未据手稿或初刊确认原信完整性。"
+  },
+  {
+    "id": "DFXF2010-CHENDONGYUAN-D03",
+    "title": "致陈东原书",
+    "work_id": "LWD-W000151",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "2010选本完整一函，含PDF202署名及PDF203“又弟七八年来……”附言。附言无新称谓、署名或署日，不拆算另一封；不代表致陈东原三函全集。"
+  },
+  {
+    "id": "DFXF2010-CHENYUAN-1118",
+    "title": "致陈垣（十一月十八日）",
+    "work_id": "LWD-W000152",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "2010选本单页所收完整一封信，自称谓至署名、十一月十八日署时；不代表陈垣往来书信集。"
+  },
+  {
+    "id": "DFXF2010-MEIYIQI-M01",
+    "title": "致梅贻琦（七月二十五日）",
+    "work_id": "LWD-W000162",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "2010选本连续三页的完整单函，自“月涵先生校长道鉴”至署名及“七月二十五日”；PDF205末“此”与PDF206首“间地主”衔接同段，无第二函起讫。"
+  },
+  {
+    "id": "LOCAL-TUP-WANGYUNWU-W03",
+    "title": "致王云五信",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "所见四叶原迹见证完整：称谓、主函、主署名、月日、两处附言及末署名均在版面内，正文跨叶连续，未见缺页或边界截断。此结论针对样章所载见证，不声称已检查档案原件及其全部附件。"
+  },
+  {
+    "id": "LOCAL-LWD-W000160-J01",
+    "title": "致李嘉言（1939年1月12日明信片）",
+    "work_id": "LWD-W000160",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": null
+  },
+  {
+    "id": "LWD2013-V5-B01",
+    "title": "致邊疆文藝編輯部",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录本版所载书信单元，含本函开头、全文、结语、署名与原署月日；信中提及的附件诗作未随该源单元刊出，不声称连同原函附件齐备。"
+  },
+  {
+    "id": "LWD2013-V5-C01",
+    "title": "致九三社訊編輯部",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录本版所载书信单元，含本函开头、全文、结语、署名与原署月日；信中提及的附件诗作未随该源单元刊出，不声称连同原函附件齐备。"
+  },
+  {
+    "id": "LWD2013-V5-D01",
+    "title": "致陳東原（一）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录2013增订本本编号书信单元，包括称谓、署名、实署日期和同函附言；不声称据原件确认原信完整性。"
+  },
+  {
+    "id": "LWD2013-V5-D02",
+    "title": "致陳東原（二）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录2013增订本本编号书信单元，包括称谓、署名、实署日期和同函附言；不声称据原件确认原信完整性。"
+  },
+  {
+    "id": "LWD2013-V5-L01",
+    "title": "致羅常培",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录2013增订本《致罗常培》源单元，含称呼、正文、结敬、署名与原署月日；不声称与手稿或初刊核定原信完整性。"
+  },
+  {
+    "id": "LWD2013-V5-N01",
+    "title": "致于乃仁（一；一月七日）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录2013增订本该编号书信源单元，含称呼、正文、结语、署名与原署日期；未取得作者手稿，未声称其他版本、原函附件均已齐备。"
+  },
+  {
+    "id": "LWD2013-V5-N02",
+    "title": "致于乃仁（二；六日）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录2013增订本该编号书信源单元，含称呼、正文、结语、署名与原署日期；未取得作者手稿，未声称其他版本、原函附件均已齐备。"
+  },
+  {
+    "id": "LWD2013-V5-N03",
+    "title": "致于乃仁（三；十一月十二日）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录2013增订本该编号书信源单元，含称呼、正文、结语、署名与原署日期；未取得作者手稿，未声称其他版本、原函附件均已齐备。"
+  },
+  {
+    "id": "LWD2013-V5-N04",
+    "title": "致于乃仁（四；三月卅日）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录2013增订本该编号书信源单元，含称呼、正文、结语、署名与原署日期；未取得作者手稿，未声称其他版本、原函附件均已齐备。"
+  },
+  {
+    "id": "LWD2013-V5-P01",
+    "title": "致劉平章（一，三月一日）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整本版编号源单元（含全部署后文字）；不等于已经回查手稿或初刊完整原函。"
+  },
+  {
+    "id": "LWD2013-V5-P02",
+    "title": "致劉平章（二，十五日）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整本版编号源单元（含全部署后文字）；不等于已经回查手稿或初刊完整原函。"
+  },
+  {
+    "id": "LWD2013-V5-P03",
+    "title": "致劉平章（三，未署日）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整本版编号源单元（含全部署后文字）；不等于已经回查手稿或初刊完整原函。"
+  },
+  {
+    "id": "LWD2013-V5-P04",
+    "title": "致劉平章（四，十月六日夜）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整本版编号源单元（含全部署后文字）；不等于已经回查手稿或初刊完整原函。"
+  },
+  {
+    "id": "LWD2013-V5-P05",
+    "title": "致劉平章（五，十一月五日）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整本版编号源单元（含全部署后文字）；不等于已经回查手稿或初刊完整原函。"
+  },
+  {
+    "id": "LWD2013-V5-P06",
+    "title": "致劉平章（六，十二月十四日）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整本版编号源单元（含全部署后文字）；不等于已经回查手稿或初刊完整原函。"
+  },
+  {
+    "id": "LWD2013-V5-P07",
+    "title": "致劉平章（七，十四日）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整本版编号源单元（含全部署后文字）；不等于已经回查手稿或初刊完整原函。"
+  },
+  {
+    "id": "LWD2013-V5-Q01",
+    "title": "致張秋華（一）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录2013第五册本编号书信单元，含全部称谓、正文、署名、日期及附言；不声称已经信札原件确认完整性。"
+  },
+  {
+    "id": "LWD2013-V5-Q02",
+    "title": "致張秋華（二）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录2013第五册本编号书信单元，含全部称谓、正文、署名、日期及附言；不声称已经信札原件确认完整性。"
+  },
+  {
+    "id": "LWD2013-V5-S01",
+    "title": "致馬順珍（一；廿五日）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录2013增订本本编号书信源单元，含称呼、全文、结语、全部署名、原署日期及本函有载附言；不声称已核作者手稿或所有版本。"
+  },
+  {
+    "id": "LWD2013-V5-S02",
+    "title": "致馬順珍（二；五月廿三日）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录2013增订本本编号书信源单元，含称呼、全文、结语、全部署名、原署日期及本函有载附言；不声称已核作者手稿或所有版本。"
+  },
+  {
+    "id": "LWD2013-V5-U01",
+    "title": "致王叔武（一）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录2013第五册本编号书信单元，含全部称谓、正文、署名及实署日期；不声称已经信札原件确认完整性。"
+  },
+  {
+    "id": "LWD2013-V5-U02",
+    "title": "致王叔武（二）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录2013第五册本编号书信单元，含全部称谓、正文、署名及实署日期；不声称已经信札原件确认完整性。"
+  },
+  {
+    "id": "LWD2013-V5-U03",
+    "title": "致王叔武（三）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录2013第五册本编号书信单元，含全部称谓、正文、署名及实署日期；不声称已经信札原件确认完整性。"
+  },
+  {
+    "id": "LWD2013-V5-W01",
+    "title": "致王雲五（一，未署日）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录本版编号一所收称谓、主函、署名、署后书目说明及回信地址；未据手稿或初刊确认原函全貌。"
+  },
+  {
+    "id": "LWD2013-V5-W02",
+    "title": "致王雲五（二，未署日）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录本版编号二所收称谓、正文、两处小注、署名和回信地址；未据手稿或初刊确认原函全貌。"
+  },
+  {
+    "id": "LWD2013-V5-W07",
+    "title": "致王雲五（七，未署日）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录本版编号七所收称谓、正文、主署名、署后道歉说明、再启长附言及最后典再拜；未据手稿或初刊确认原函全貌。"
+  },
+  {
+    "id": "LWD2013-V5-X01",
+    "title": "致王子軒",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录2013增订本《致王子轩》源单元，含敬辞、正文、具衔署名、收信人/机构与原署日期；未据手稿或初刊核定原信完整性。"
+  },
+  {
+    "id": "LWD2013-V5-Z01",
+    "title": "答張壽明",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录2013年增订本《答张寿明》源单元，含称呼、正文、署名与作者署月日；不声称已经与手稿或初刊核定完整原信。"
+  },
+  {
+    "id": "LOCAL-COMPONENT-HNZJLSY-JI-DFXF2010",
+    "title": "记《淮南子校录拾遗》",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "2010选本印16页的一篇短记；选本注明选自《三馀札记》卷四、《三馀札记》后二卷。不是《淮南子校录拾遗》校勘条目全集。"
+  },
+  {
+    "id": "LOCAL-COMPONENT-WYYH-BZ-JDJ-DFXF2010",
+    "title": "《文苑英华辨证》简端记",
+    "work_id": null,
+    "parent_work_id": "LWD-W000006",
+    "complete": true,
+    "completeness_scope": "2010选本印17—20页所载十条简端记，从卷一用字一至卷九杂录二；并非《群书斠补》全书，也非《文苑英华辨证》全书。"
+  },
+  {
+    "id": "LWD1999-V3-SHUOYUAN-JUNDAO-ZIHAN-DIANAN",
+    "title": "說苑斠補·卷一·君道〔子罕典案單條節錄〕",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "此條劉文典〇典案完整；同頁其餘《說苑》底文與前代評論未錄入此單元。"
+  },
+  {
+    "id": "LWD1999-V3-SY-DIYAO-SANMOU",
+    "title": "帝堯三眸",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "1999辑载本的完整独立札记条目；不等于《三餘札記》全卷、全书或1928原刊定本。"
+  },
+  {
+    "id": "LWD1999-V3-SY-WUSHU",
+    "title": "梧鼠",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "1999辑载本的完整独立札记条目；不等于《三餘札記》全卷、全书或1928原刊定本。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-XIANQINGFU",
+    "title": "閑情賦",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "完整收录1999本《三余札记》卷一《閑情賦》单条，含正文及条末两条小字补说；不代表《三余札记》整书录全，也不代表陶渊明原赋全文。PDF369此前《梧鼠》尾文与PDF370其后《標點》均排除。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HUANDAO",
+    "title": "胡安道",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "完整收录1999本《三餘札記》卷一《胡安道》单条，两原段含“典案”及所引古籍文字；不代表《三餘札記》整书已录全。首尾共享页仅取本条，前条《同善社》与后条《宣和遺事》排除。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HNZJB-YUANDAO",
+    "title": "淮南子校補·原道篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "完整收录选定1999版《三餘札記·淮南子校補》的《原道篇》正文38原段，另保留题下三种校本说明及两处小字夹注；不代表《淮南子校補》或《三餘札記》全书完成。首尾共享页分别排除已录《類書》和下节《俶真篇》。 v0.79附底本整理者校記（一）1段，旧正文不改。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HNZJB-SHUZHEN",
+    "title": "淮南子校補·俶真篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "完整覆盖选定1999版《三餘札記·淮南子校補》的《俶真篇》32原段及一处小字夹注，2字明示待核；不代表《淮南子校補》或《三餘札記》全书完成。首共享页排除《原道篇》，下节《天文篇》不收。 v0.79附底本整理者校記（二）1段，旧正文不改。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HNZJB-TIANWEN",
+    "title": "淮南子校補·天文篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "完整覆盖选定1999版《三餘札記·淮南子校補》的《天文篇》27原段及一段小字注；不代表《淮南子校補》或《三餘札記》全书完成。末共享页下节《地形篇》不收。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HNZJB-DIXING",
+    "title": "淮南子校補·地形篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "完整覆盖选定1999版《三餘札記·淮南子校補》的《地形篇》12原段；不代表《淮南子校補》或《三餘札記》全书完成。首共享页《天文篇》及末共享页《時則篇》不收。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HNZJB-SHIZE",
+    "title": "淮南子校補·時則篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "完整覆盖选定1999版《三餘札記·淮南子校補》的《時則篇》11原正文段及卷末校記（三）1段；不代表《淮南子校補》或《三餘札記》全书完成。首共享页《地形篇》及末共享页《覽冥篇》不收；其他卷末校記不收。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HNZJB-LANMING",
+    "title": "淮南子校補·覽冥篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "完整覆盖选定1999版《三餘札記·淮南子校補》的《覽冥篇》15原段；不代表《淮南子校補》或《三餘札記》全书完成。首共享页《時則篇》及末共享页《精神篇》不收。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HNZJB-JINGSHEN",
+    "title": "淮南子校補·精神篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "完整覆盖选定1999版《三餘札記·淮南子校補》的《精神篇》10原正文段及卷末校記（四）1段；不代表《淮南子校補》或《三餘札記》全书完成。首共享页《覽冥篇》及末共享页《本經篇》不收；其他卷末校記不收。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HNZJB-BENJING",
+    "title": "淮南子校補·本經篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "完整覆盖选定1999版《三餘札記·淮南子校補》的《本經篇》18录入段，包括5引句、7条高注和俞樾说、6条刘氏解释及末段原印小字注；不代表《淮南子校補》或《三餘札記》全书完成。首共享页《精神篇》及末共享页《主術篇》不收。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HNZJB-SHUZHU",
+    "title": "淮南子校補·主術篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "完整覆蓋選定1999版《三餘札記·淮南子校補》的《主術篇》14原正文段及卷末校記（五）1段；不代表《淮南子校補》或《三餘札記》全書完成。首共享頁《本經篇》及末共享頁《繆稱篇》不收；其他卷末校記不收。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HNZJB-MIUCHENG",
+    "title": "淮南子校補·繆稱篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·淮南子校補》的《繆稱篇》正文及對應卷末校記（六）；PDF401前半《主術篇》及PDF404下半《齊俗篇》不收；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HNZJB-QISU",
+    "title": "淮南子校補·齊俗篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·淮南子校補》的《齊俗篇》全文，PDF404《齊俗篇》題下起，PDF408《道應篇》題前止；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HNZJB-DAOYING",
+    "title": "淮南子校補·道應篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·淮南子校補》的《道應篇》全文，PDF408《道應篇》題下起，PDF419《氾論篇》題前止；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HNZJB-FANLUN",
+    "title": "淮南子校補·氾論篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·淮南子校補》的《氾論篇》全文，PDF419題下起，PDF423末句止；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HNZJB-QUANYAN",
+    "title": "淮南子校補·詮言篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·淮南子校補》的《詮言篇》正文及對應卷末校記（七）；PDF423《氾論篇》及 PDF425 中部另起的《兵略篇》不收；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HNZJB-BINGLUE",
+    "title": "淮南子校補·兵略篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·淮南子校補》的《兵略篇》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HNZJB-SHUOSHAN",
+    "title": "淮南子校補·說山篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·淮南子校補》的《說山篇》全文及相關卷末校記；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HNZJB-SHUOLIN",
+    "title": "淮南子校補·說林篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·淮南子校補》的《說林篇》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HNZJB-RENJIAN",
+    "title": "淮南子校補·人間篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·淮南子校補》的《人間篇》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HNZJB-XIUWU",
+    "title": "淮南子校補·修務篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·淮南子校補》的《修務篇》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HNZJB-TAIZU",
+    "title": "淮南子校補·泰族篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·淮南子校補》的《泰族篇》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HNZJB-YAOLUE",
+    "title": "淮南子校補·要略篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·淮南子校補》的《要略篇》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HFZJ-YOUDU",
+    "title": "韓非子簡端記·有度篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·韓非子簡端記》的《有度篇》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HFZJ-YANGQUAN",
+    "title": "韓非子簡端記·揚權篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·韓非子簡端記》的《揚權篇》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HFZJ-BAJIAN",
+    "title": "韓非子簡端記·八奸篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·韓非子簡端記》的《八奸篇》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HFZJ-SHIGUO",
+    "title": "韓非子簡端記·十過篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·韓非子簡端記》的《十過篇》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HFZJ-GUFEN",
+    "title": "韓非子簡端記·孤憤篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·韓非子簡端記》的《孤憤篇》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HFZJ-SHUINAN",
+    "title": "韓非子簡端記·說難篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·韓非子簡端記》的《說難篇》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HFZJ-HESHI",
+    "title": "韓非子簡端記·和氏篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·韓非子簡端記》的《和氏篇》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HFZJ-WANGZHENG",
+    "title": "韓非子簡端記·亡征篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·韓非子簡端記》的《亡征篇》全文及適用卷末校記；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HFZJ-SHIXIE",
+    "title": "韓非子簡端記·飾邪篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·韓非子簡端記》的《飾邪篇》全文及對應整理者校記；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HFZJ-JIELAO",
+    "title": "韓非子簡端記·解老篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·韓非子簡端記》的《解老篇》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HFZJ-YULAO",
+    "title": "韓非子簡端記·喻老篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·韓非子簡端記》的《喻老篇》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HFZJ-SHUOLINSHANG",
+    "title": "韓非子簡端記·說林上篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·韓非子簡端記》的《說林上篇》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HFZJ-SHUOLINXIA",
+    "title": "韓非子簡端記·說林下篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·韓非子簡端記》的《說林下篇》全文及適用卷末校記；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HFZJ-SHOUDAO",
+    "title": "韓非子簡端記·守道篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·韓非子簡端記》的《守道篇》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HFZJ-YONGREN",
+    "title": "韓非子簡端記·用人篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·韓非子簡端記》的《用人篇》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HFZJ-NEICHUSHANG",
+    "title": "韓非子簡端記·內儲說上篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·韓非子簡端記》的《內儲說上篇》全文及適用卷末校記；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HFZJ-NEICHUXIA",
+    "title": "韓非子簡端記·內儲說下篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·韓非子簡端記》的《內儲說下篇》全文及適用卷末校記；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HFZJ-WAICHUZUOSHANG",
+    "title": "韓非子簡端記·外儲說左上篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·韓非子簡端記》的《外儲說左上篇》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HFZJ-WAICHUZUOXIA",
+    "title": "韓非子簡端記·外儲說左下篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·韓非子簡端記》的《外儲說左下篇》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HFZJ-WAICHUYOUSHANG",
+    "title": "韓非子簡端記·外儲說右上篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·韓非子簡端記》的《外儲說右上篇》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HFZJ-WAICHUYOUXIA",
+    "title": "韓非子簡端記·外儲說右下篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·韓非子簡端記》的《外儲說右下篇》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HFZJ-NANYI",
+    "title": "韓非子簡端記·難一篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·韓非子簡端記》的《難一篇》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HFZJ-NANER",
+    "title": "韓非子簡端記·難二篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·韓非子簡端記》的《難二篇》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HFZJ-SHUOSHI",
+    "title": "韓非子簡端記·說使篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·韓非子簡端記》的《說使篇》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HFZJ-LIUFAN",
+    "title": "韓非子簡端記·六反篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·韓非子簡端記》的《六反篇》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HFZJ-BASHUO",
+    "title": "韓非子簡端記·八說篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·韓非子簡端記》的《八說篇》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HFZJ-BAJING",
+    "title": "韓非子簡端記·八經篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·韓非子簡端記》的《八經篇》全文及相應卷末校記；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HFZJ-WUDU",
+    "title": "韓非子簡端記·五蠹篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·韓非子簡端記》的《五蠹篇》全文及相應卷末校記；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HFZJ-XIANXUE",
+    "title": "韓非子簡端記·顯學篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·韓非子簡端記》的《顯學篇》全文及相應卷末校記；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HFZJ-ZHONGXIAO",
+    "title": "韓非子簡端記·忠孝篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·韓非子簡端記》的《忠孝篇》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HFZJ-RENZHU",
+    "title": "韓非子簡端記·人主篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·韓非子簡端記》的《人主篇》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HFZJ-CHILING",
+    "title": "韓非子簡端記·飭令篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·韓非子簡端記》的《飭令篇》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HFZJ-XINDU",
+    "title": "韓非子簡端記·心度篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·韓非子簡端記》的《心度篇》全文及相應卷末校記；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-ZZSJ-QIWULUN",
+    "title": "莊子瑣記·齊物論篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·莊子瑣記》的《齊物論篇》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-ZZSJ-RENJIANSHI",
+    "title": "莊子瑣記·人間世篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·莊子瑣記》的《人間世篇》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-ZZSJ-DECHONGFU",
+    "title": "莊子瑣記·德充符篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·莊子瑣記》的《德充符篇》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-ZZSJ-DAZONGSHI",
+    "title": "莊子瑣記·大宗師篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·莊子瑣記》的《大宗師篇》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-ZZSJ-YINGDIWANG",
+    "title": "莊子瑣記·應帝王篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·莊子瑣記》的《應帝王篇》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-ZZSJ-ZAIYOU",
+    "title": "莊子瑣記·在宥篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·莊子瑣記》的《在宥篇》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-ZZSJ-TIANDI",
+    "title": "莊子瑣記·天地篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·莊子瑣記》的《天地篇》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-ZZSJ-TIANYUN",
+    "title": "莊子瑣記·天運篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·莊子瑣記》的《天運篇》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-ZZSJ-SHANXING",
+    "title": "莊子瑣記·繕性篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·莊子瑣記》的《繕性篇》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-ZZSJ-DASHENG",
+    "title": "莊子瑣記·達生篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·莊子瑣記》的《達生篇》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-ZZSJ-SHANMU",
+    "title": "莊子瑣記·山木篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·莊子瑣記》的《山木篇》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-ZZSJ-ZHIBEIYOU",
+    "title": "莊子瑣記·知北遊篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·莊子瑣記》的《知北遊篇》全文及其專屬整理者校記；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-ZZSJ-GENGSANGCHU",
+    "title": "莊子瑣記·庚桑楚篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·莊子瑣記》的《庚桑楚篇》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-ZZSJ-WAIWU",
+    "title": "莊子瑣記·外物篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·莊子瑣記》的《外物篇》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-ZZSJ-YUYAN",
+    "title": "莊子瑣記·寓言篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·莊子瑣記》的《寓言篇》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-ZZSJ-TIANXIA",
+    "title": "莊子瑣記·天下篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·莊子瑣記》的《天下篇》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-QIONGQIONGJUXU",
+    "title": "蛩蛩距虛",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記》中的《蛩蛩距虛》全文及其兩條專屬整理者校記；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LSCQJB-QUSI",
+    "title": "呂氏春秋輯補·去私篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·呂氏春秋輯補》的《去私篇》全文及其專屬整理者校記；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LSCQJB-JICHUNJI",
+    "title": "呂氏春秋輯補·季春紀",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·呂氏春秋輯補》的《季春紀》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LSCQJB-LUNREN",
+    "title": "呂氏春秋輯補·論人篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·呂氏春秋輯補》的《論人篇》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LSCQJB-MENGXIAJI",
+    "title": "呂氏春秋輯補·孟夏紀",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·呂氏春秋輯補》的《孟夏紀》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LSCQJB-QUANXUE",
+    "title": "呂氏春秋輯補·勸學篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·呂氏春秋輯補》的《勸學篇》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LSCQJB-AISHI",
+    "title": "呂氏春秋輯補·愛士篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·呂氏春秋輯補》的《愛士篇》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LSCQJB-JIESANG",
+    "title": "呂氏春秋輯補·節喪篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·呂氏春秋輯補》的《節喪篇》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LSCQJB-ANSI",
+    "title": "呂氏春秋輯補·安死篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·呂氏春秋輯補》的《安死篇》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LSCQJB-YIBAO",
+    "title": "呂氏春秋輯補·異寶篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·呂氏春秋輯補》的《異寶篇》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LSCQJB-YIYONG",
+    "title": "呂氏春秋輯補·異用篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·呂氏春秋輯補》的《異用篇》全文及其篇題校記；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LSCQJB-CHANGJIAN",
+    "title": "呂氏春秋輯補·長見篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·呂氏春秋輯補》的《長見篇》題下全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LSCQJB-JIELI",
+    "title": "呂氏春秋輯補·介立篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·呂氏春秋輯補》的《介立篇》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LSCQJB-TINGYAN",
+    "title": "呂氏春秋輯補·聽言篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·呂氏春秋輯補》的《聽言篇》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LSCQJB-JINTING",
+    "title": "呂氏春秋輯補·謹聽篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·呂氏春秋輯補》的《謹聽篇》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LSCQJB-SHENDALAN",
+    "title": "呂氏春秋輯補·慎大覽",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·呂氏春秋輯補》的「慎大覽」題下兩則全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LSCQJB-QUANXUN",
+    "title": "呂氏春秋輯補·權勳篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·呂氏春秋輯補》的「權勳篇」題下全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LSCQJB-BAOGENG",
+    "title": "呂氏春秋輯補·報更篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·呂氏春秋輯補》的「報更篇」題下全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LSCQJB-SHUNSHUO",
+    "title": "呂氏春秋輯補·順說篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·呂氏春秋輯補》的「順說篇」題下全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LSCQJB-GUIYIN",
+    "title": "呂氏春秋輯補·貴因篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·呂氏春秋輯補》的「貴因篇」題下全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LSCQJB-CHAJIN",
+    "title": "呂氏春秋輯補·察今篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·呂氏春秋輯補》的「察今篇」題下全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LSCQJB-XIANSHILAN",
+    "title": "呂氏春秋輯補·先識覽",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·呂氏春秋輯補》的「先識覽」題下全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LSCQJB-LECHENG",
+    "title": "呂氏春秋輯補·樂成篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·呂氏春秋輯補》的「樂成篇」題下全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LSCQJB-WUGONG",
+    "title": "呂氏春秋輯補·勿躬篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·呂氏春秋輯補》的「勿躬篇」題下全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LSCQJB-ZHIDU",
+    "title": "呂氏春秋輯補·知度篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·呂氏春秋輯補》的「知度篇」題下全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LSCQJB-ZHIYI",
+    "title": "呂氏春秋輯補·執一篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·呂氏春秋輯補》的「執一篇」題下全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LSCQJB-SHENYINGLAN",
+    "title": "呂氏春秋輯補·審應覽",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·呂氏春秋輯補》的「審應覽」題下全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LSCQJB-JINGYU",
+    "title": "呂氏春秋輯補·精諭篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·呂氏春秋輯補》的「精諭篇」題下全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LSCQJB-FUCI",
+    "title": "呂氏春秋輯補·浮辭篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·呂氏春秋輯補》的《浮辭篇》全文及（一六）校記；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LSCQJB-YINGYAN",
+    "title": "呂氏春秋輯補·應言篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·呂氏春秋輯補》的「應言篇」題下全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LSCQJB-LISULAN",
+    "title": "呂氏春秋輯補·離俗覽",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·呂氏春秋輯補》的《離俗覽》全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LSCQJB-YONGMIN",
+    "title": "呂氏春秋輯補·用民篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·呂氏春秋輯補》的「用民篇」題下全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LSCQJB-SHIWEI",
+    "title": "呂氏春秋輯補·適威篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·呂氏春秋輯補》的「適威篇」題下全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LSCQJB-ZHANGLI",
+    "title": "呂氏春秋輯補·長利篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·呂氏春秋輯補》的「長利篇」題下全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LSCQJB-XINGLUN",
+    "title": "呂氏春秋輯補·行論篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·呂氏春秋輯補》的「行論篇」題下全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LSCQJB-QIXIAN",
+    "title": "呂氏春秋輯補·期賢篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·呂氏春秋輯補》的「期賢篇」題下全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LSCQJB-AILUI",
+    "title": "呂氏春秋輯補·愛類篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·呂氏春秋輯補》的「愛類篇」題下全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LSCQJB-MOZHI",
+    "title": "呂氏春秋輯補·莫直篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·呂氏春秋輯補》的「莫直篇」題下全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LSCQJB-ZHIHUA",
+    "title": "呂氏春秋輯補·知化篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·呂氏春秋輯補》的「知化篇」題下全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LSCQJB-YONGSE",
+    "title": "呂氏春秋輯補·雍塞篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·呂氏春秋輯補》的「雍塞篇」題下全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LSCQJB-BOZHI",
+    "title": "呂氏春秋輯補·博志篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·呂氏春秋輯補》的「博志篇」題下全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LSCQJB-FENZHI",
+    "title": "呂氏春秋輯補·分職篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·呂氏春秋輯補》的「分職篇」題下全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LSCQJB-SHIRONGLUN",
+    "title": "呂氏春秋輯補·士容論",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·呂氏春秋輯補》的「士容論」題下全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LSCQJB-SHANGNONG",
+    "title": "呂氏春秋輯補·上農篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·呂氏春秋輯補》的「上農篇」題下全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LSCQJB-RENDI",
+    "title": "呂氏春秋輯補·任地篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·呂氏春秋輯補》的「任地篇」題下全文；不代表父作品完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LHKB-PREFACE",
+    "title": "論衡勘補·書前記",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定1999版《三餘札記·論衡勘補》總題下書前短序全文；不代表《論衡勘補》全篇完成。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LHKB-MINGLU",
+    "title": "論衡勘補·命祿篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "本篇為《命祿篇》全文；《論衡勘補》未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LHKB-QISHOU",
+    "title": "論衡勘補·氣壽篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "本篇為《氣壽篇》正文及對應整理者校記；《論衡勘補》未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LHKB-MINGYI",
+    "title": "論衡勘補·命義篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "本篇為《命義篇》全文；《論衡勘補》未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LHKB-WUXING",
+    "title": "論衡勘補·無形篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "本篇為《無形篇》全文；《論衡勘補》未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LHKB-LVXING",
+    "title": "論衡勘補·率性篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "本篇為《率性篇》全文；《論衡勘補》未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LHKB-JIYAN",
+    "title": "論衡勘補·吉驗篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "《吉驗篇》全文；整理者校記（一九）（二〇）另列。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LHKB-CHUBING",
+    "title": "論衡勘補·初稟篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "本篇為《初稟篇》正文及對應整理者校記；《論衡勘補》未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LHKB-BENXING",
+    "title": "論衡勘補·本性篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "本篇為《本性篇》全文；《論衡勘補》未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LHKB-WUSHI",
+    "title": "論衡勘補·物勢篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "《物勢篇》全文；整理者校記（二二）（二三）另列。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LHKB-QIGUAI",
+    "title": "論衡勘補·奇怪篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": ""
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LHKB-SHUXU",
+    "title": "論衡勘補·書虛篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "本篇為《書虛篇》全文；《論衡勘補》未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LHKB-BIANXU",
+    "title": "論衡勘補·變虛篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "本篇為《變虛篇》全文；《論衡勘補》未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LHKB-YIXU",
+    "title": "論衡勘補·異虛篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "本篇為《異虛篇》全文；《論衡勘補》未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LHKB-GANXU",
+    "title": "論衡勘補·感虛篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "本篇為《感虛篇》全文；《論衡勘補》未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LHKB-LEIXU",
+    "title": "論衡勘補·雷虛篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "本篇為《雷虛篇》全文；《論衡勘補》未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LHKB-LIANGZHI",
+    "title": "論衡勘補·量知篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "本篇為《量知篇》正文及對應整理者校記；《論衡勘補》未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LHKB-XIEDUAN",
+    "title": "論衡勘補·謝短篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "本篇為《謝短篇》全文；《論衡勘補》未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LHKB-BIETONG",
+    "title": "論衡勘補·別通篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "本篇為《別通篇》全文；《論衡勘補》未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LHKB-SHIYING",
+    "title": "論衡勘補·是應篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "本篇為《是應篇》全文；《論衡勘補》未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LHKB-ZIRAN",
+    "title": "論衡勘補·自然篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "本篇為《自然篇》全文；《論衡勘補》未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LHKB-FUWEN",
+    "title": "論衡勘補·伏文篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "本篇為《伏文篇》正文及對應整理者校記；《論衡勘補》未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LHKB-SIGUI",
+    "title": "論衡勘補·死僞篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "本篇為《死僞篇》全文；《論衡勘補》未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LHKB-YANDU",
+    "title": "論衡勘補·言毒篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "本篇為《言毒篇》全文；《論衡勘補》未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LHKB-SIHUI",
+    "title": "論衡勘補·四諱篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "本篇為《四諱篇》全文；《論衡勘補》未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LHKB-SHIZHI",
+    "title": "論衡勘補·實知篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "本篇為《實知篇》全文，亦是《論衡勘補》末篇；《三餘札記》尚未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-LUJI",
+    "title": "盧輯說苑逸文之疏謬",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "本條為《盧輯說苑逸文之疏謬》全文及對應卷末校記；《三餘札記》尚未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HUAINANZIYIWEN",
+    "title": "淮南子逸文",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "《淮南子逸文》選定版全文及對應卷末校記；一處未能確定編碼的原刊異體字以〓占位，附原圖。《三餘札記》尚未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-DWXZ-PREFACE",
+    "title": "讀文選雜記·卷首自述",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "《讀文選雜記》卷首自述全文；後續各小節另作組件；《三餘札記》尚未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-DWXZ-XIDUFU",
+    "title": "讀文選雜記·西都賦",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "《讀文選雜記·西都賦》選定版小節全文；後續《西京賦》另作組件；《三餘札記》尚未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-DWXZ-XIJINGFU",
+    "title": "讀文選雜記·西京賦",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "《讀文選雜記·西京賦》選定版小節全文；後續《蜀都賦》另作組件；《三餘札記》尚未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-DWXZ-SHUDUFU",
+    "title": "讀文選雜記·蜀都賦",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "《讀文選雜記·蜀都賦》選定版小節全文及對應卷末校記；《三餘札記》尚未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-DWXZ-ZIXUFU",
+    "title": "讀文選雜記·子虛賦",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "《讀文選雜記·子虛賦》選定版小節全文；前後小節另作組件；《三餘札記》尚未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-DWXZ-SHANGLINFU",
+    "title": "讀文選雜記·上林賦",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "《讀文選雜記·上林賦》選定版小節全文；前後小節另作組件；《三餘札記》尚未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-DWXZ-DENGLOUFU",
+    "title": "讀文選雜記·登樓賦",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "《讀文選雜記·登樓賦》選定版小節全文及其卷末校記；《三餘札記》尚未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-DWXZ-YOUTIANTAISHANFU",
+    "title": "讀文選雜記·游天臺山賦",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "《讀文選雜記·游天臺山賦》選定版小節全文；前後小節另作組件；《三餘札記》尚未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-DWXZ-WUCHENGFU",
+    "title": "讀文選雜記·蕪城賦",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "《讀文選雜記·蕪城賦》選定版小節全文；前後小節另作組件；《三餘札記》尚未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-DWXZ-HAIFU",
+    "title": "讀文選雜記·海賦",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "《讀文選雜記·海賦》選定版小節全文；前後小節另作組件；《三餘札記》尚未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-DWXZ-JIANGFU",
+    "title": "讀文選雜記·江賦",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "《讀文選雜記·江賦》選定版小節全文；前後小節另作組件；《三餘札記》尚未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-DWXZ-QIUXINGFU",
+    "title": "讀文選雜記·秋興賦",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "《讀文選雜記·秋興賦》選定版小節全文；前後小節另作組件；《三餘札記》尚未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-DWXZ-YUEFU",
+    "title": "讀文選雜記·月賦",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "《讀文選雜記·月賦》選定版小節全文；前後小節另作組件；《三餘札記》尚未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-DWXZ-FUNIAOFU",
+    "title": "讀文選雜記·鵩鳥賦",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "《讀文選雜記·鵩鳥賦》選定版小節全文；前後小節另作組件；《三餘札記》尚未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-DWXZ-WUHEFU",
+    "title": "讀文選雜記·舞鶴賦",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "《讀文選雜記·舞鶴賦》選定版小節全文；前後小節另作組件；《三餘札記》尚未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-DWXZ-SIXUANFU",
+    "title": "讀文選雜記·思玄賦",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "《讀文選雜記·思玄賦》選定版小節全文及其卷末校記；《三餘札記》尚未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-DWXZ-XIANJUFU",
+    "title": "讀文選雜記·閑居賦",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "《讀文選雜記·閑居賦》選定版小節全文及其卷末校記；《三餘札記》尚未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-DWXZ-BIEFU",
+    "title": "讀文選雜記·別賦",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "《讀文選雜記·別賦》選定版小節全文；《三餘札記》尚未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-DWXZ-WENFU",
+    "title": "讀文選雜記·文賦",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "《讀文選雜記·文賦》選定版小節全文及其卷末校記；《三餘札記》尚未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-DWXZ-DONGXIAOFU",
+    "title": "讀文選雜記·洞簫賦",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "《讀文選雜記·洞簫賦》選定版小節全文及其卷末校記；《三餘札記》尚未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-DWXZ-QINFU",
+    "title": "讀文選雜記·琴賦",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "《讀文選雜記·琴賦》選定版小節全文及其卷末校記；《三餘札記》尚未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-DWXZ-SHENGFU",
+    "title": "讀文選雜記·笙賦",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "《讀文選雜記·笙賦》選定版小節全文；《三餘札記》尚未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-DWXZ-SHENNVFU",
+    "title": "讀文選雜記·神女賦",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "《讀文選雜記·神女賦》選定版小節全文；《三餘札記》尚未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-DWXZ-LUOSHENFU",
+    "title": "讀文選雜記·雒神賦",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "《讀文選雜記·雒神賦》選定版小節全文；《三餘札記》尚未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-DWXZ-MINGDUPIAN",
+    "title": "讀文選雜記·曹子建樂府名都篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "《讀文選雜記·曹子建樂府名都篇》選定版小節全文；《三餘札記》尚未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-DWXZ-QIFA",
+    "title": "讀文選雜記·七發",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "《讀文選雜記·七發》選定版小節全文及其卷末校記；《三餘札記》尚未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-DWXZ-QIQI",
+    "title": "讀文選雜記·七啓",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "《讀文選雜記·七啓》選定版小節全文；《三餘札記》尚未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-DWXZ-QIMING",
+    "title": "讀文選雜記·七命",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "《讀文選雜記·七命》選定版小節全文；《三餘札記》尚未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-DWXZ-QIUTONGQINQINBIAO",
+    "title": "讀文選雜記·求通親親表",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "《讀文選雜記·求通親親表》選定版小節全文；《三餘札記》尚未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-DWXZ-CAOHONGWEIWENDISHU",
+    "title": "讀文選雜記·爲曹洪與魏文帝書",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "《讀文選雜記·爲曹洪與魏文帝書》選定版小節全文；《三餘札記》尚未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-DWXZ-ZHONGDALISHU",
+    "title": "讀文選雜記·與鍾大理書",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "《讀文選雜記·與鍾大理書》選定版小節全文；《三餘札記》尚未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-DWXZ-YANGDEZUSHU",
+    "title": "讀文選雜記·與楊德祖書",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "《讀文選雜記·與楊德祖書》選定版小節全文；《三餘札記》尚未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-DWXZ-HUANMAOQISHU",
+    "title": "讀文選雜記·與桓茂齊書",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "《讀文選雜記·與桓茂齊書》選定版小節全文；《三餘札記》尚未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-DWXZ-WANGWENXIANJIXU",
+    "title": "讀文選雜記·王文憲集序",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "《讀文選雜記·王文憲集序》選定版小節全文；《三餘札記》尚未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-DWXZ-HANGAOZUGONGCHENSONG",
+    "title": "讀文選雜記·漢高祖功臣頌",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "《讀文選雜記·漢高祖功臣頌》選定版小節全文及卷末校記；《三餘札記》尚未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-DWXZ-JINJIZONGLUN",
+    "title": "讀文選雜記·晉紀總論",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "《讀文選雜記·晉紀總論》選定版小節全文；《三餘札記》尚未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-DWXZ-DIANLUNLUNWEN",
+    "title": "讀文選雜記·典論論文",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "《讀文選雜記·典論論文》選定版小節全文；《三餘札記》尚未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-DWXZ-SHIQUEMING",
+    "title": "讀文選雜記·石闕銘",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "《讀文選雜記·石闕銘》選定版小節全文；《三餘札記》尚未錄完。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HNZJLSY-YUANDAO",
+    "title": "淮南子校錄拾遺·原道篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定 1999 版卷四《淮南子校錄拾遺·原道篇》全文；不代表父作品全錄。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HNZJLSY-CHUZHEN",
+    "title": "淮南子校錄拾遺·俶真篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定 1999 版卷四《淮南子校錄拾遺·俶真篇》全文；不代表父作品全錄。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HNZJLSY-TIANWEN",
+    "title": "淮南子校錄拾遺·天文篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定 1999 版卷四《淮南子校錄拾遺·天文篇》全文；不代表父作品全錄。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HNZJLSY-DIXING",
+    "title": "淮南子校錄拾遺·地形篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定 1999 版卷四《淮南子校錄拾遺·地形篇》全文；不代表父作品全錄。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HNZJLSY-JINGSHEN",
+    "title": "淮南子校錄拾遺·精神篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定 1999 版卷四《淮南子校錄拾遺·精神篇》全文及對應整理者校記；不代表父作品全錄。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HNZJLSY-ZHUSHU",
+    "title": "淮南子校錄拾遺·主術篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定 1999 版卷四《淮南子校錄拾遺·主術篇》全文；不代表父作品全錄。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HNZJLSY-MIUCHENG",
+    "title": "淮南子校錄拾遺·繆稱篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定 1999 版卷四《淮南子校錄拾遺·繆稱篇》全文及對應整理者校記；不代表父作品全錄。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HNZJLSY-QISU",
+    "title": "淮南子校錄拾遺·齊俗篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定 1999 版卷四《淮南子校錄拾遺·齊俗篇》全篇28段及對應整理者校記一段；由分段原圖復核核定。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HNZJLSY-DAOYING",
+    "title": "淮南子校錄拾遺·道應篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定 1999 版卷四《淮南子校錄拾遺·道應篇》全文 24 段及對應整理者校記 1 段；不代表父作品全錄。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HNZJLSY-SHUOSHAN",
+    "title": "淮南子校錄拾遺·說山篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "选定 1999 版卷四《淮南子校錄拾遺·說山篇》全文六段；本篇无对应卷末校记。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HNZJLSY-RENJIAN",
+    "title": "淮南子校錄拾遺·人間篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "选定 1999 版卷四《淮南子校錄拾遺·人間篇》全文二十段；本篇无对应卷末校记。"
+  },
+  {
+    "id": "LWD1999-V3-SYZJ-HNZJLSY-TAIZU",
+    "title": "淮南子校錄拾遺·泰族篇",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "選定 1999 版卷四《淮南子校錄拾遺·泰族篇》全文兩段；本篇無對應卷末校記。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-YINYAN",
+    "title": "大唐西域記簡端記·引言",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "1999 本版《引言》題記、贈語、署名與四段劉氏按文完整；PDF613 七條整理者校記另存。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J1-XULUN",
+    "title": "大唐西域記簡端記·卷第一·序論",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "选定版《序論》正文十六段；（一）至（四）原印校记号保留，校记文字待另核。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J1-AQINI",
+    "title": "大唐西域記簡端記·卷第一·阿耆尼國",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "选定版《阿耆尼國》正文五段；（五）至（八）整理者校记号保留，校记文字待另核。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J1-QUZHI",
+    "title": "大唐西域記簡端記·卷第一·屈支國",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "选定版《屈支國》正文八段，另有两处内部小题；（九）至（一三）整理者校记号保留，校记文字待另核。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J1-BALUKA",
+    "title": "大唐西域記簡端記·卷第一·跋祿迦國",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "选定版《跋祿迦國》正文四段，另有一处原印内部小题；（一四）整理者校记号保留，校记文字待另核。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J1-SUYE-SHUICHENG",
+    "title": "大唐西域記簡端記·卷第一·素葉水城",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "1999 原版《素葉水城》題下底書引句與劉文典按文完整；止境：PDF622《窣利地區總述》獨立大題前。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J1-SULI-ZONGSHU",
+    "title": "大唐西域記簡端記·卷第一·窣利地區總述",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "1999 原版《窣利地區總述》題下底書引句與劉文典按文完整；止境：PDF622《千泉》獨立大題前。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J1-QIANQUAN",
+    "title": "大唐西域記簡端記·卷第一·千泉",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "1999 原版《千泉》題下底書引句與劉文典按文完整；止境：PDF623‘（Schuyler, Turkestan, II.123）。’止；下一獨立大題《呾邏私城》前。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J1-DALUOSI",
+    "title": "大唐西域記簡端記·卷第一·呾邏私城",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "选定版《呾邏私城》完整正文 2 段。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J1-NUCHIJIAN",
+    "title": "大唐西域記簡端記·卷第一·笯赤建國",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "选定版《笯赤建國》完整正文 3 段。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J1-ZHESHI",
+    "title": "大唐西域記簡端記·卷第一·赭時國",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "1999 原版《赭時國》獨立題下底書引句與劉文典兩條按文完整；止於同頁《怖捍國》獨立大題前。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J1-BUHAN",
+    "title": "大唐西域記簡端記·卷第一·怖捍國",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "1999 原版《怖捍國》獨立題下底書引句與劉文典按文完整；止於印605下一獨立大題前。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J1-SUDULISENA",
+    "title": "大唐西域記簡端記·卷第一·窣堵利瑟那國",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "1999 原版《窣堵利瑟那國》獨立題下底書引句與劉文典按文完整；止於下一獨立大題前。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J1-SAMOJIAN",
+    "title": "大唐西域記簡端記·卷第一·颯秣建國",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "1999 原版《颯秣建國》獨立題下底書引句與劉文典按文完整；止於同頁下一獨立大題前。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J1-MIMOHE",
+    "title": "大唐西域記簡端記·卷第一·弭秣賀國",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "1999 原版《弭秣賀國》獨立題下兩段底書引句與兩段劉文典按文完整；止於下一頁獨立大題前。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J1-QUSHUANGNIJIA",
+    "title": "大唐西域記簡端記·卷第一·屈霜你迦國",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "1999 原版《屈霜你迦國》獨立題下兩段底書引句與兩段劉文典按文完整；止於同頁下一獨立題前。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J1-BUHE",
+    "title": "大唐西域記簡端記·卷第一·捕喝國",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "1999 原版《捕喝國》獨立題下一段底書引句與一段劉文典按文完整；止於同頁下一獨立題前。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J1-FADI",
+    "title": "大唐西域記簡端記·卷第一·伐地國",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "1999 原版《伐地國》獨立題下一段底書引句與一段劉文典按文完整；止於 PDF628 下一獨立題前。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J1-HUOLIXIMIJIA",
+    "title": "大唐西域記簡端記·卷第一·貨利習彌迦國",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "1999 原版《貨利習彌迦國》獨立題下一段底書引句與一段劉文典按文完整；止於同頁下一獨立題前。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J1-JIESHUANGNA",
+    "title": "大唐西域記簡端記·卷第一·羯霜那國",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "1999 原版《羯霜那國》獨立題下一段底書引句與一段劉文典按文完整；止於同頁下一獨立題前。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J1-TIEMEN",
+    "title": "大唐西域記簡端記·卷第一·鐵門",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "1999 原版《鐵門》獨立題下一段底書引句與一段劉文典引書按文完整；止於 PDF629 下一獨立題前。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J1-DUHUOLUOGUODI",
+    "title": "大唐西域記簡端記·卷第一·覩貨邏國故地",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "1999 原版《覩貨邏國故地》獨立題下底書引句一段及劉文典按文兩段完整；止於下一獨立題前。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J1-DAMI",
+    "title": "大唐西域記簡端記·卷第一·呾蜜國",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "1999 原版《呾蜜國》獨立題下底書引句及劉文典按文完整；止於下一獨立題前。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J1-CHIEYANNAGUO",
+    "title": "大唐西域記簡端記·卷第一·赤鄂衍那國",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "1999 原版《赤鄂衍那國》獨立題下底書引句及劉文典按文完整；止於下一獨立題前。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J1-HULUMOGUO",
+    "title": "大唐西域記簡端記·卷第一·忽露摩國",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "1999 原版《忽露摩國》獨立題下底書引句及劉文典按文完整；止於下一獨立題前。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J1-YUMANGUO",
+    "title": "大唐西域記簡端記·卷第一·愉漫國",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "1999 原版《愉漫國》獨立題下底書引句及劉文典按文完整；止於下一獨立題前。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J1-JUHEYANNAGUO",
+    "title": "大唐西域記簡端記·卷第一·鞠和衍那國",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "1999 原版《鞠和衍那國》獨立題下底書引句及劉文典按文完整；止於下一獨立題前。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J1-LOUSHAGUO",
+    "title": "大唐西域記簡端記·卷第一·鏤沙國",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "1999 原版《鏤沙國》獨立題下底書引句及劉文典按文完整；止於下一獨立題前。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J1-KEDUOLUOGUO",
+    "title": "大唐西域記簡端記·卷第一·珂咄羅國",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "1999 原版《珂咄羅國》獨立題下底書引句及劉文典按文完整；止於下一獨立題前。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J1-JUMIDUOGUO",
+    "title": "大唐西域記簡端記·卷第一·拘謎陀國",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "1999 原版《拘謎陀國》獨立題下，跨 PDF631—632 的三段底書引句及三段劉文典按文完整；止於《縛伽浪國》前。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J1-FUJIALANGGUO",
+    "title": "大唐西域記簡端記·卷第一·縛伽浪國",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "1999 原版《縛伽浪國》獨立題下底書引句及劉文典按文完整；止於下一獨立題前。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J1-HELUXIMINJIANGUO",
+    "title": "大唐西域記簡端記·卷第一·紇露悉泯健國",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "1999 原版《紇露悉泯健國》獨立題下底書引句及劉文典按文完整；止於 PDF633 下一獨立題前。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J1-HULINGUO",
+    "title": "大唐西域記簡端記·卷第一·忽懔國",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "1999 原版《忽懔國》獨立題下底書引句及劉文典按文完整；止於同頁下一獨立題前。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J1-FUHEGUO",
+    "title": "大唐西域記簡端記·卷第一·縛喝國",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "1999 原版《縛喝國》獨立題下底書引句、劉文典按文與吳宓署名注完整；止於下一獨立題《納縛僧伽藍》前。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J1-NAFUSENGQIELAN",
+    "title": "大唐西域記簡端記·卷第一·納縛僧伽藍",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "1999 原版《納縛僧伽藍》獨立題下全部底書引句和劉文典按文；止於 PDF635 下一獨立題前。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J1-TIWEICHENGJIBOLICHENG",
+    "title": "大唐西域記簡端記·卷第一·提謂城及波利城",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "1999 原版《提謂城及波利城》獨立題下全部底書引句與劉文典按文；止於 PDF636 下一獨立題前。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J1-XIAOCHUANZESENGQIELAN",
+    "title": "大唐西域記簡端記·卷第一·梵衍那國·小川澤僧伽藍",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "1999 原版《梵衍那國》地名題頭下《小川澤僧伽藍》有正文條目全部底書引句與劉氏按文；止於 PDF637 下一獨立題前。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J1-JIABISHIGUO",
+    "title": "大唐西域記簡端記·卷第一·迦畢試國",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "1999 原版《迦畢試國》獨立題下五段文字完整；止於下一獨立題《質子伽藍》前。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J1-ZHIZISENGQIELAN",
+    "title": "大唐西域記簡端記·卷第一·質子伽藍",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "1999 原版《質子伽藍》獨立題下全部底書引句與劉氏按文；止於 PDF638《校記》前。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J1-JIAOJI",
+    "title": "大唐西域記簡端記·卷第一·校記",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "1999 原版《大唐西域記簡端記》卷第一《校記》（一）至（二一），止於 PDF640 卷二前。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J2-YINDUZONGSHU-SHULIANG",
+    "title": "大唐西域記簡端記·卷第二·印度總述·數量",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "1999 原版《卷第二·印度總述·數量》完整有正文部分，止於 PDF641《衣飾》前。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J2-YINDUZONGSHU-YISHI",
+    "title": "大唐西域記簡端記·卷第二·印度總述·衣飾",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "完整小題《衣飾》，不含前題《數量》或次題《族姓》。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J2-YINDUZONGSHU-ZUXING",
+    "title": "大唐西域記簡端記·卷第二·印度總述·族姓",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "1999 原版卷二《印度總述·族姓》獨立題下全部底書引句及劉氏按文；止於後一題前。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J2-YINDUZONGSHU-BINGSI",
+    "title": "大唐西域記簡端記·卷第二·印度總述·病死",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "1999 原版卷二《印度總述·病死》獨立題下全部底書引句及劉氏按文；止於後一題前。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J2-YINDUZONGSHU-WUCHAN",
+    "title": "大唐西域記簡端記·卷第二·印度總述·物產",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "1999 原版卷二《印度總述·物產》獨立題下全部底書引句及劉氏按文；止於後一題前。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J2-LANBOGUO",
+    "title": "大唐西域記簡端記·卷第二·濫波國",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "1999 原版卷二《濫波國》獨立題下全部引句、劉氏按文及吳宓署名注；止於《那揭羅曷國》前。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J2-NAJIELUOHEGUO",
+    "title": "大唐西域記簡端記·卷第二·那揭羅曷國",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "1999 原版《那揭羅曷國》獨立題下三段文字完整；止於同頁《健馱邏國》前。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J2-JIANTUOLUOGUO",
+    "title": "大唐西域記簡端記·卷第二·健馱邏國",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "1999 原版卷二《健馱邏國》獨立題下三段文字完整；止於 PDF644 下一題前。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J2-BEIBOLUOSHU-JIANISEJIAWANG-DASUDUBO",
+    "title": "大唐西域記簡端記·卷第二·卑鉢羅樹及迦膩色迦王大窣堵波",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "1999 原版《卑鉢羅樹及迦膩色迦王大窣堵波》獨立題下三段文字完整；止於同頁《迦膩色迦王伽藍與脅尊者世親如意遺迹》前。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J2-JIANISEJIAWANGQIELAN-YIJI",
+    "title": "大唐西域記簡端記·卷第二·迦膩色迦王伽藍與脅尊者世親如意遺迹",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "1999 原版卷二此獨立題下全部五段文字；止於 PDF645《跋虜沙城》前。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J2-BALUSHACHENG",
+    "title": "大唐西域記簡端記·卷第二·跋虜沙城",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "1999 原版卷二《跋虜沙城》題下三段完整；止於同頁《烏鐸迦漢荼城》前。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J2-WUDUOJIAHANTUCHENG",
+    "title": "大唐西域記簡端記·卷第二·烏鐸迦漢荼城",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "1999 原版《烏鐸迦漢荼城》獨立題下兩段文字完整；止於同頁《娑羅覩邏邑及波你尼仙》前。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J2-SUOLUODULUOYI-BONINIXIAN",
+    "title": "大唐西域記簡端記·卷第二·娑羅覩邏邑及波你尼仙",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "1999 原版《娑羅覩邏邑及波你尼仙》獨立題下四段文字完整；止於 PDF646 卷二末。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J3-WUZHANGNAGUO",
+    "title": "大唐西域記簡端記·卷第三·烏仗那國",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "1999 原版卷三《烏仗那國》題下完整五段；止於同頁《呾叉始羅國》前。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J3-DACHASHILUOGUO",
+    "title": "大唐西域記簡端記·卷第三·呾叉始羅國",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "1999 原版卷三《呾叉始羅國》題下跨 PDF647–648 兩段完整；止於 PDF648 吳宓注後。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J3-SENGHEBULUOGUO",
+    "title": "大唐西域記簡端記·卷第三·僧訶補羅國",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "1999 原版卷三《僧訶補羅國》題下完整兩段；止於同頁下題前。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J3-CHENGFUJINSITA-BAIYIWAIDAO",
+    "title": "大唐西域記簡端記·卷第三·城附近寺塔及白衣外道本師初說法處",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "1999 原版卷三本題題下完整兩段；止於同頁《大石門及王子捨身飼虎處》前。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J3-DASHIMEN-WANGZI-SHESHEN",
+    "title": "大唐西域記簡端記·卷第三·大石門及王子捨身飼虎處",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "1999 原版卷三本題題下完整兩段；止於 PDF648 頁末，下題起 PDF649。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J3-JIASHIMILUOGUO",
+    "title": "大唐西域記簡端記·卷第三·迦濕彌羅國",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "1999 原版卷三《迦濕彌羅國》題下兩段；同頁下一專題另起。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J3-WUBAILUOHANSENGCHUANSHUO",
+    "title": "大唐西域記簡端記·卷第三·五百羅漢僧傳說",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "1999 原版卷三本題題下完整五段；止於 PDF649 頁末，下題起 PDF650。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J3-JIANISEJIAWANG-DISIJIEJI",
+    "title": "大唐西域記簡端記·卷第三·迦膩色迦王第四結集",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "1999 原版卷三本題題下完整三段；同頁下一題前止。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J3-XUESHANXIAWANG-TAOZUI-GUSHI",
+    "title": "大唐西域記簡端記·卷第三·雪山下王討罪故事",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "1999 原版卷三本題題下完整六段，跨 PDF650–651；止於 PDF651 下題之前。"
+  },
+  {
+    "id": "LWD1999-V3-DTXJJD-J3-SUOJIANDILUOLUNSHI-XIANGSHILUOHANYIJI",
+    "title": "大唐西域記簡端記·卷第三·索建地羅論師及象食羅漢遺迹",
+    "work_id": null,
+    "parent_work_id": "LWD-W000005",
+    "complete": true,
+    "completeness_scope": "1999 原版卷三本題題下完整兩段；止於「功不唐捐也。」。"
+  },
+  {
+    "id": "LWD1999-V3-QSZB-ZZBZBY-TIANDIPIAN",
+    "title": "羣書斟補·莊子補正補遺·天地篇",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "1999 原版《天地篇》完整三層正文；止於「是唐人所見本字正作『謑』。」。"
+  },
+  {
+    "id": "LWD1999-V3-QSZB-ZZBZBY-ZHILEPIAN",
+    "title": "羣書斟補·莊子補正補遺·至樂篇",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "1999 原版《至樂篇》完整三段，止於「劉本誤入正文。」。"
+  },
+  {
+    "id": "LWD1999-V3-QSZB-ZZBZBY-DASHENGPIAN",
+    "title": "羣書斟補·莊子補正補遺·達生篇",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "1999 原版《達生篇》完整兩層正文，止於「是古義猶未湮也。」。"
+  },
+  {
+    "id": "LWD1999-V3-QSZB-ZZBZBY-XUWUGUIPIAN",
+    "title": "羣書斟補·莊子補正補遺·徐无鬼篇",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "1999 原版《徐无鬼篇》完整兩層正文，止於「字亦作『人』。」。"
+  },
+  {
+    "id": "LWD1999-V3-QSZB-ZZBZBY-WAIWUPIAN",
+    "title": "羣書斟補·莊子補正補遺·外物篇",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "1999 原版《外物篇》完整三層正文，止於「其失也鑿矣。」。"
+  },
+  {
+    "id": "LWD1999-V3-QSZB-ZZBZBY-DAOZHIPIAN",
+    "title": "羣書斟補·莊子補正補遺·盜跖篇",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "1999 原版《盜跖篇》完整底書引句及劉文典案語，止於「之證矣。」。"
+  },
+  {
+    "id": "LWD1999-V3-QSZB-ZZBZBY-TIANXIAPIAN",
+    "title": "羣書斟補·莊子補正補遺·天下篇",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "1999 原版《天下篇》完整底書引句及劉文典案語，止於「之義也。」。"
+  },
+  {
+    "id": "LWD1999-V3-QSZB-HNHLJJBY-CHUZHENPIAN",
+    "title": "羣書斟補·淮南鴻烈集解補遺·俶真篇",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "1999 原版《俶真篇》完整底書引句及劉文典案語，止於「竝其塙證也。」。"
+  },
+  {
+    "id": "LWD1999-V3-QSZB-HNHLJJBY-XIUWUPIAN",
+    "title": "羣書斟補·淮南鴻烈集解補遺·修務篇",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "1999 原版《修務篇》完整底書引句、王念孫所引前人意見及劉文典案語，止於「說非也。」。"
+  },
+  {
+    "id": "LWD1999-V3-QSZB-DSZOS-QUANXUEPIAN",
+    "title": "羣書斟補·讀荀子偶識·勸學篇",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "1999 原版《勸學篇》完整底書引句、王念孫校語及劉文典案語，止於「是其比也。」。"
+  },
+  {
+    "id": "LWD1999-V3-QSZB-DSZOS-XIUSHENPIAN",
+    "title": "羣書斟補·讀荀子偶識·修身篇",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "1999 原版《修身篇》完整底書引句、楊倞注文及劉文典案語，止於「是也。」。"
+  },
+  {
+    "id": "LWD1999-V3-QSZB-DSZOS-RONGRUPIAN",
+    "title": "羣書斟補·讀荀子偶識·榮辱篇",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "1999 原版《榮辱篇》完整底書引句、楊倞注文及劉文典案語，止於「失與此同。」。"
+  },
+  {
+    "id": "LWD1999-V3-QSZB-DSZOS-FEISHIERZIPIAN",
+    "title": "羣書斟補·讀荀子偶識·非十二子篇",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "1999 原版《非十二子篇》完整底書引句及劉文典案語，止於「淮南子道應篇。」。"
+  },
+  {
+    "id": "LWD1999-V3-QSZB-DSZOS-RUXIAOPIAN",
+    "title": "羣書斟補·讀荀子偶識·儒效篇",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "1999 原版《儒效篇》完整底書引句、原印校本異文、楊注及劉氏案語，止於「亦周季恒言。」。"
+  },
+  {
+    "id": "LWD1999-V3-QSZB-DSZOS-FUGUOPIAN",
+    "title": "羣書斟補·讀荀子偶識·富國篇",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "1999 原版《富國篇》完整引句、楊注、王念孫說及劉氏案語，止於「惟楊於王制篇未出注耳。」。"
+  },
+  {
+    "id": "LWD1999-V3-QSZB-DSZOS-JUNDAOPIAN",
+    "title": "羣書斟補·讀荀子偶識·君道篇",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "1999 原版《君道篇》完整引句、盧文弨說及劉氏案語，止於「泥矣。」。"
+  },
+  {
+    "id": "LWD1999-V3-QSZB-DSZOS-CHENDAOPIAN",
+    "title": "羣書斟補·讀荀子偶識·臣道篇",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "1999 原版《臣道篇》完整三條引句、楊注、王念孫說及劉氏案語，止「其衍與此同。」。"
+  },
+  {
+    "id": "LWD1999-V3-QSZB-DSZOS-YIBINGPIAN",
+    "title": "羣書斟補·讀荀子偶識·議兵篇",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "1999 原版《議兵篇》完整引句及劉氏案語，止「即本荀子此文。」。"
+  },
+  {
+    "id": "LWD1999-V3-QSZB-DSZOS-JIANGGUOPIAN",
+    "title": "羣書斟補·讀荀子偶識·疆國篇",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "1999 原版《疆國篇》完整引句、楊注、盧文弨說與劉氏案語，止「可證。」。"
+  },
+  {
+    "id": "LWD1999-V3-QSZB-DSZOS-ZHENGLUNPIAN",
+    "title": "羣書斟補·讀荀子偶識·正論篇",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "1999 原版《正論篇》完整引句及劉氏案語，止「相對成義。」。"
+  },
+  {
+    "id": "LWD1999-V3-QSZB-DSZOS-LILUNPIAN",
+    "title": "羣書斟補·讀荀子偶識·禮論篇",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "1999 原版《禮論篇》完整兩組引句及楊注、盧文弨、王念孫、劉氏案語，止「謂明矣。」。"
+  },
+  {
+    "id": "LWD1999-V3-QSZB-DSZOS-XIEBIPIAN",
+    "title": "羣書斟補·讀荀子偶識·解蔽篇",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "原版《解蔽篇》完整引句、楊注及劉氏案語，止「字耳。」。"
+  },
+  {
+    "id": "LWD1999-V3-QSZB-DSZOS-ZHENGMINGPIAN",
+    "title": "羣書斟補·讀荀子偶識·正名篇",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "原版《正名篇》完整一條引句與劉氏案語，止「雜志。」。"
+  },
+  {
+    "id": "LWD1999-V3-QSZB-DSZOS-FUPIAN",
+    "title": "羣書斟補·讀荀子偶識·賦篇",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "原版《賦篇》完整一條跨頁引句、楊注、王念孫說及劉氏案語，止「詁相合。」。"
+  },
+  {
+    "id": "LWD1999-V3-QSZB-DSZOS-YOUZUOPIAN",
+    "title": "羣書斟補·讀荀子偶識·宥坐篇",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "原版《宥坐篇》完整一條引句、楊注和劉氏案語，止「教人」。"
+  },
+  {
+    "id": "LWD1999-V3-QSZB-DSZOS-YAOWENPIAN",
+    "title": "羣書斟補·讀荀子偶識·堯問篇",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "原版《堯問篇》完整一條引句與劉氏案語，止「文明矣」。此為《讀荀子偶識》末題。"
+  },
+  {
+    "id": "LWD1999-V3-QINFUYIN-JJBU",
+    "title": "羣書斟補·秦婦吟校箋補",
+    "work_id": "LWD1999-V3-QINFUYIN-JJBU",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "《羣書斟補》下《秦婦吟校箋補》全篇四組校箋；首尾大字題界完整，頁 670 與 672 各只取本篇部分；已完成獨立原圖復核。"
+  },
+  {
+    "id": "LWD1999-V3-QSZB-YUANBAI-CHANGHENGE-XUNXI",
+    "title": "羣書斟補·元白詩箋證稿補",
+    "work_id": "LWD1999-V3-QSZB-YUANBAI-CHANGHENGE-XUNXI",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "《羣書斟補·元白詩箋證稿補》完整獨立作品，含《長恨歌》《馴犀》兩個原印內題、十四段正文；AI 獨立原圖複核 PASS，已納入工作版選錄。"
+  },
+  {
+    "id": "LWD1999-V3-WENYUAN-BIANZHENG-JIANDUANJI",
+    "title": "羣書斟補·文苑英華辨證簡端記",
+    "work_id": "LWD1999-V3-WENYUAN-BIANZHENG-JIANDUANJI",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整獨立《文苑英華辨證簡端記》；十個卷內題及篇末收束齊全。"
+  },
+  {
+    "id": "LWD1999-V3-SWJC-GUONAILIANG-DIAOCHAOHE",
+    "title": "過奈良吊晁衡",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "自「當年唐史著鴻文」至「不修政教但興軍」完整八句。"
+  },
+  {
+    "id": "LWD1999-V3-SWJC-XIZHUANG",
+    "title": "西莊",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "自「西莊地接板橋灣」至「一燈遙識阿爺還」完整四聯八句。"
+  },
+  {
+    "id": "LWD2013-V5-BINGSHEN-CAOTANG",
+    "title": "丙申仲春遊草堂詩",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收錄本版所載本題正文及其附注；疑字明標，不代表手稿或初刊終審。"
+  },
+  {
+    "id": "LWD2013-V5-FULAO-JIANGLIN",
+    "title": "伏老降臨敬賦一律",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收錄本版所載本題正文及其附注；疑字明標，不代表手稿或初刊終審。"
+  },
+  {
+    "id": "LWD2013-V5-GUANJU-SHI",
+    "title": "觀劇詩",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收錄本版所載本題正文及其附注；疑字明標，不代表手稿或初刊終審。"
+  },
+  {
+    "id": "LWD2013-V5-HUAI-YINKE",
+    "title": "懷寅恪",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收錄本版所載本題正文及其附注；疑字明標，不代表手稿或初刊終審。"
+  },
+  {
+    "id": "LWD2013-V5-HUANXISHA-ZHANGQIUHUA",
+    "title": "浣溪沙（贈張秋華）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收錄本版所載本闋及小字注；不代表手稿或初刊終審。"
+  },
+  {
+    "id": "LWD2013-V5-JINGAN",
+    "title": "靜安學會諸儒英招飲宴席上感賦",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整轉錄2013版所載本詩題名及四聯八句，不代表手稿或初刊逐字終審。"
+  },
+  {
+    "id": "LWD2013-V5-JINLING-HUAIGU",
+    "title": "金陵懷古",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收錄本版所載題名及本詩；小字序注按原頁保留。不代表手稿或初刊終審。"
+  },
+  {
+    "id": "LWD2013-V5-JIREN-YANGMA",
+    "title": "姬人楊媽逝三載矣寒夜無憀詩以悼之",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收錄本版所載本題正文及其附注；疑字明標，不代表手稿或初刊終審。"
+  },
+  {
+    "id": "LWD2013-V5-SHOU-ZHANGZIQIAN",
+    "title": "壽張子謙老藝人（四首）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收錄本版所載本題正文及其附注；疑字明標，不代表手稿或初刊終審。"
+  },
+  {
+    "id": "LWD2013-V5-SONG-PENGLANG",
+    "title": "送彭郎",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收錄本版所載題名及本詩；小字序注按原頁保留。不代表手稿或初刊終審。"
+  },
+  {
+    "id": "LWD2013-V5-TIANBINGXI",
+    "title": "天兵西",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收錄本版所載題名及4聯8句；不代表手稿或初刊終審。"
+  },
+  {
+    "id": "LWD2013-V5-W000044",
+    "title": "黃鶴樓",
+    "work_id": "LWD-W000044",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整轉錄2013版所載本詩題名及四聯八句，不代表手稿或初刊逐字終審。"
+  },
+  {
+    "id": "LWD2013-V5-W000045",
+    "title": "杜湖",
+    "work_id": "LWD-W000045",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整轉錄2013版所載本詩題名及四聯八句，不代表手稿或初刊逐字終審。"
+  },
+  {
+    "id": "LWD2013-V5-WUSHIBA-CHUDU",
+    "title": "五十八初度",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收錄本版所載題名及本詩；小字序注按原頁保留。不代表手稿或初刊終審。"
+  },
+  {
+    "id": "LWD2013-V5-WUTI-SIMA",
+    "title": "無題（司馬琴臺跡已陳）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收錄本版所載本題正文及其附注；疑字明標，不代表手稿或初刊終審。"
+  },
+  {
+    "id": "LWD2013-V5-WUTI-TIANLU",
+    "title": "無題（天祿傳經願已乖）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收錄本版所載本題正文及其附注；疑字明標，不代表手稿或初刊終審。"
+  },
+  {
+    "id": "LWD2013-V5-YIJU-XIZHUANG",
+    "title": "移居西莊舍南有流水松竹",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收錄本版所載題名及4聯8句；不代表手稿或初刊終審。"
+  },
+  {
+    "id": "LWD2013-V5-ZENG-LICHENGZHI",
+    "title": "贈栗成之",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收錄本版所載題名及2聯4句；不代表手稿或初刊終審。"
+  },
+  {
+    "id": "LWD2013-V5-ZHEGUTIAN-DUSHANG",
+    "title": "鷓鴣天（獨上高樓豁遠眸）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收錄本版所載本闋及小字注；不代表手稿或初刊終審。"
+  },
+  {
+    "id": "LWD2013-V5-ZHEGUTIAN-JINREN",
+    "title": "鷓鴣天（寫示進仁老弟）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收錄本版所載本闋及小字注；不代表手稿或初刊終審。"
+  },
+  {
+    "id": "LOCAL-HUAINAN-ZIXU-1931",
+    "title": "淮南鴻烈集解自序",
+    "work_id": "LWD-W000001",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": null
+  },
+  {
+    "id": "LWD-ZHUANGZI-ZIXU-1999",
+    "title": "《莊子補正》自序",
+    "work_id": "LWD-W000002",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": null
+  },
+  {
+    "id": "LWD2013-V5-ANDA-DEDICATION",
+    "title": "書贈安大旅京諸同學",
+    "work_id": "LWD-W000077",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收錄本版所錄題贈文字及落款。首段為荀子勸學節錄，劉氏行為是選文、書寫及題贈；不把古典引文視為劉文典原創散文。"
+  },
+  {
+    "id": "LWD2013-V5-ARAKI-ESSAY",
+    "title": "荒木貞夫告全日本國民書",
+    "work_id": "LWD-W000074",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收錄劉文典同題報刊評論九段，末很了解荒木之爲人的；不含現代編者出處注與下篇宇內混同秘策。本篇是評論，並非荒木原著全書或劉文典的全譯本LWD-W000013。"
+  },
+  {
+    "id": "LWD2013-V5-DILIU-ZONGDUI",
+    "title": "第六縱隊",
+    "work_id": "LWD-W000096",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收錄2013增訂本現存的本篇七段正文及原印缺字方框；原版已缺部分文字，不等於1942原刊無缺全文。末頁後篇對日本應有的認識和覺悟不混入。"
+  },
+  {
+    "id": "LWD2013-V5-DONGXIANG-SHANBEN",
+    "title": "東鄉和山本——從戰史上推論太平洋的戰局",
+    "work_id": "LWD-W000098",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收錄2013增訂本現存的本篇九段正文，含原印25個缺字方框；不等於1942年原刊無缺全文。首尾共頁的對日本應有的認識和覺悟、日本人的自殺不混入。"
+  },
+  {
+    "id": "LWD2013-V5-DUI-RIBEN-RENSHI-JUEWU",
+    "title": "對日本應有的認識和覺悟",
+    "work_id": "LWD-W000097",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收錄2013增訂本現存的本篇十段正文，含原印一個缺字方框和一處六角括號內的編者增補字；不等於1942原刊無缺全文。首尾共頁的第六縱隊、東鄉和山本不混入。"
+  },
+  {
+    "id": "LWD2013-V5-FADONGJI",
+    "title": "日本侵略中國的發動機",
+    "work_id": "LWD-W000072",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "選定版全篇十六段；首尾為部分頁。始我幼年在日本住過幾年，止也都可以窺豹一斑了。不含前篇清華國文系、後篇日本侵略政策的歷史背景及現代編者出處附注。"
+  },
+  {
+    "id": "LWD2013-V5-HEILONGHUI",
+    "title": "日本併吞各國之推進機黑龍會",
+    "work_id": "LWD-W000070",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收錄選定版正文及講者自注，止錢先生；不含緊隨的清華大學國文系的特點。"
+  },
+  {
+    "id": "LWD2013-V5-HISTORY-BACKGROUND",
+    "title": "日本侵略政策的歷史背景",
+    "work_id": "LWD-W000073",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收錄選定版正文十段及引文內兩處譯者註，止那就是大幸了；不含篇首前篇發動機末句、現代編者出處注及下一篇荒木貞夫告全日本國民書。"
+  },
+  {
+    "id": "LWD2013-V5-HUAJINLOU",
+    "title": "題花近樓書目解題",
+    "work_id": "LWD-W000078",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收錄所引金氏書目文字及劉氏回應，止文典記。它是劉氏三餘札記舊藏本上的另一題記，不是三餘札記全書，亦不與其他同書題記混同。"
+  },
+  {
+    "id": "LWD2013-V5-JIASONG",
+    "title": "架松",
+    "work_id": "LWD-W000103",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收錄2013增訂本現存的本篇兩段正文。第二段由PDF369接370，印351頁右半仍為本篇，不按目錄截為印350單頁。後接日本敗後我們該怎樣對他之題文不混入。"
+  },
+  {
+    "id": "LWD2013-V5-KONGZI-JIAYU-NOTE",
+    "title": "景宋蜀本孔子家語題記",
+    "work_id": "LWD-W000081",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收錄本版所錄劉氏題記一段，含所題書版本、藏印及落款，止街卒擊柝之聲耳。不含孔子家語底書正文，亦不據公開同名書目推認為劉氏舊藏同一實物。"
+  },
+  {
+    "id": "LWD2013-V5-LIENV-NOTE",
+    "title": "列女傳題記",
+    "work_id": "LWD-W000083",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收錄劉氏列女傳題記一段及落款，止北平北池子寓齋。不含梁端校注列女傳底書正文，不以公開同題古籍代替題記。"
+  },
+  {
+    "id": "LWD2013-V5-QINGHUA-GUOWEN",
+    "title": "清華大學國文系的特點",
+    "work_id": "LWD-W000071",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收錄2013版所載本篇，首每一個學校，末完成這個使命；未含前後篇或編者來源注於正文。"
+  },
+  {
+    "id": "LWD2013-V5-RIBEN-TONGYI-SHIJIE-SIXIANG",
+    "title": "日本統一世界思想之由來",
+    "work_id": "LWD-W000100",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收錄2013增訂本現存的本篇十五段正文及一條原編者注，含原印五個缺字方框、兩處六角括號補文；不等於1942年原刊無缺全文。首起頁上篇日本人的自殺末文不混入。兩期連載在選定版合為一篇。"
+  },
+  {
+    "id": "LWD2013-V5-RIBENREN-ZISHA",
+    "title": "日本人的自殺——日本民族性的研究之一",
+    "work_id": "LWD-W000099",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收錄2013增訂本現存的本篇七段正文，含原印一個缺字方框；不等於1942年原刊無缺全文。首尾共頁的東鄉和山本、日本統一世界思想之由來不混入。副題日本民族性的研究之一為本篇題名的一部分。"
+  },
+  {
+    "id": "LWD2013-V5-SHIGU-QIN-NOTE",
+    "title": "石鼓爲秦刻石攷題記",
+    "work_id": "LWD-W000087",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收錄劉氏受馬衡贈書所作題記及文典署名；不含馬衡石鼓爲秦刻石攷正文，也不把三體石經拓本四紙當作本篇文字。"
+  },
+  {
+    "id": "LWD2013-V5-SHITONG-NOTE",
+    "title": "史通通釋批語",
+    "work_id": "LWD-W000080",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收錄所引書志序論一句與劉氏批語一句，止良足珍寶。不含史通通釋底書全文，不把引文另算劉氏作品。"
+  },
+  {
+    "id": "LWD2013-V5-SHUO-WENLI-SHI",
+    "title": "說溫李詩",
+    "work_id": "LWD-W000090",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收錄2013增訂本題作說溫李詩的七節，含引言、六首所論唐詩與解說。七節同為一篇，不拆作七個作品。劉文典談詩內容、鄭臨川記錄整理與本版編者來源注分層；不把引用的溫庭筠、李商隱詩當作劉氏自作。"
+  },
+  {
+    "id": "LWD2013-V5-XINBENSHI",
+    "title": "新本事詩",
+    "work_id": "LWD-W000076",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收錄劉文典序說及四節新本事詩評論，共14個段落單元，含四組標題署名與所引詩。四首主引詩分署丸山作樂、江藤新平、篠原國幹、西鄉隆盛，不另計為劉文典詩作；第三節另有篇內引詩。止故不復覼縷云，不含現代編注和下篇書贈安大旅京諸同學。"
+  },
+  {
+    "id": "LWD2013-V5-XUEGUTANG-NOTE",
+    "title": "學古堂日記題記",
+    "work_id": "LWD-W000086",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收錄本版學古堂日記題記及末署，起右文選日記六十九則，止北平北池子寓齋。僅為劉氏讀書題記，不含陳秉哲所撰底書全文。"
+  },
+  {
+    "id": "LWD2013-V5-YINGFA-GEZHENG",
+    "title": "英法革政本末",
+    "work_id": "LWD-W000058",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "2013增訂本《英法革政本末》選定底本全文78個原段已錄，PDF62—137（印43—118，首尾頁僅取本篇），止於但能師此二端國猶可救謀國諸賢尚其念之哉。保留原印缺字方框一個及六條小字夾注；篇末編者出处注另列，不混入作者正文。未直接校1915—1916三期原刊，仍待獨立交叉復校。"
+  },
+  {
+    "id": "LWD2013-V5-YUNEI",
+    "title": "宇內混同秘策",
+    "work_id": "LWD-W000075",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收錄劉文典同題評論三段，起按照常理來說，止姑且留待以後再說罷。不含前篇荒木評論、現代編者出處注與下篇新本事詩。所論佐藤信淵同題書及本多利明西域物語為被評論文獻，不當作劉文典著作全文。"
+  },
+  {
+    "id": "LWD2013-V5-ZHANG-HUITAO-EPITAPH",
+    "title": "張烈士匯滔墓誌",
+    "work_id": "LWD-W000082",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收錄本版墓誌傳文及銘曰兩段，起維中華民國二十有三年十二月二十日，止式昭懿聲。散體傳文與銘辭同屬一篇，不拆作兩個來源單元。"
+  },
+  {
+    "id": "LWD2013-V5-ZHONGGUO-JINGSHEN-WENMING",
+    "title": "中國的精神文明",
+    "work_id": "LWD-W000091",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收錄2013增訂本所存本篇的六段正文；底本原有七個空框及兩處明示缺文，均照錄，所缺原文未取得。不混入前篇說溫李詩或後續中國的宗教等篇。"
+  },
+  {
+    "id": "LWD2013-V5-ZHONGGUO-WENXUE",
+    "title": "中國的文學——中國的精神文明之二",
+    "work_id": "LWD-W000093",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收錄2013增訂本現存的本篇十一段正文及原印缺文標記；原版已缺部分文字，不等於1942原刊無缺全文。兩日連載按同一篇收錄，與前篇宗教及次篇藝術各自獨立。"
+  },
+  {
+    "id": "LWD2013-V5-ZHONGGUO-YISHU",
+    "title": "中國的藝術——中國的精神文明之三",
+    "work_id": "LWD-W000094",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收錄2013增訂本現存的本篇七段正文及原印缺字與校改；原版有一處缺字，不等於1942原刊無缺全文。按同一篇收錄，與前篇中國的文學及次篇天地間最可怕的東西各自獨立。"
+  },
+  {
+    "id": "LWD2013-V5-ZHONGGUO-ZONGJIAO",
+    "title": "中國的宗教——中國的精神文明之一",
+    "work_id": "LWD-W000092",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收錄2013增訂本所存本篇的十一段正文。題名含中國的精神文明之一，仍為獨立篇目，不與前篇中國的精神文明或續篇文學、藝術合併。"
+  },
+  {
+    "id": "LWD2013-V5-ZHUANGZI-MANUSCRIPT-NOTE",
+    "title": "莊子集注稿本題記",
+    "work_id": "LWD-W000079",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收錄本版所錄劉氏題記一段，起共和二十有三年，止七月三日文典記。所題莊子集注稿本為被評論底書，不是本篇正文或劉氏莊子補正。"
+  },
+  {
+    "id": "LOCAL-W000029-DFXF2010",
+    "title": "孙中山先生回忆片断",
+    "work_id": "LWD-W000029",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": null
+  },
+  {
+    "id": "LOCAL-W000033-DFXF2010",
+    "title": "回忆鲁迅",
+    "work_id": "LWD-W000033",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": null
+  },
+  {
+    "id": "LOCAL-W000034-DFXF2010",
+    "title": "我和鲁迅最后的一面",
+    "work_id": "LWD-W000034",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": null
+  },
+  {
+    "id": "LOCAL-W000037-DFXF2010",
+    "title": "忆“五四”",
+    "work_id": "LWD-W000037",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": null
+  },
+  {
+    "id": "CMP-SYZJ-BIAODIAN-2010",
+    "title": "标点",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "2010选本完整刊载的《三馀札记》卷一单条札记；不代表《三馀札记》全卷或全书。"
+  },
+  {
+    "id": "CMP-SYZJ-DUWENXUAN-PREFACE-2010",
+    "title": "读《文选》杂记（引言）",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "完整范围仅是2010选本题作“读《文选》杂记”的一段引言组件；本段说明札记缘起并以“命曰……云尔”结束，不是《三馀札记》卷三全部文选校记的全文。"
+  },
+  {
+    "id": "CMP-SYZJ-LEISHU-2010",
+    "title": "类书",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "2010选本完整刊载的《三馀札记》卷一单条札记；不代表《三馀札记》全卷或全书。"
+  },
+  {
+    "id": "CMP-SYZJ-WEIMEN-2010",
+    "title": "伟懑每们",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "2010选本完整刊载的《三馀札记》卷一单条札记；题名依页面作“伟懑每们”，第二字为“懑”。"
+  },
+  {
+    "id": "CMP-YINYUNXUE-ZHAJI-2010",
+    "title": "音韵学札记",
+    "work_id": null,
+    "parent_work_id": "LWD-W000088",
+    "complete": true,
+    "completeness_scope": "完整范围为2010选本题作《音韵学札记》的印21—22两页札记单元，共14段；不声称刘文典音韵学著作或其他原书全文。"
+  },
+  {
+    "id": "W000021",
+    "title": "《移山簃随笔》序",
+    "work_id": "LWD-W000021",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": null
+  },
+  {
+    "id": "LOCAL-W000023-DFXF2010",
+    "title": "《茈湖精舍诗初集》序",
+    "work_id": "LWD-W000023",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": null
+  },
+  {
+    "id": "LOCAL-W000049-DFXF2010",
+    "title": "《杜甫年谱》序",
+    "work_id": "LWD-W000049",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": null
+  },
+  {
+    "id": "LOCAL-W000032-DFXF2010",
+    "title": "对中共第八次全国代表大会的感想",
+    "work_id": "LWD-W000032",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "2010选本两页所载完整文章；来源日期为选本编辑注，不冒充作者署时。"
+  },
+  {
+    "id": "LOCAL-W000085-DFXF2010",
+    "title": "《吕氏春秋集释》序",
+    "work_id": "LWD-W000085",
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": null
+  },
+  {
+    "id": "CMP-SYZJ-TONGSHANSHE-2010",
+    "title": "同善社",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "完整录入2010选本所收《三馀札记》单篇条目，不代表全卷或全书。"
+  },
+  {
+    "id": "CMP-SYZJ-XUANHE-YISHI-2010",
+    "title": "宣和遗事",
+    "work_id": null,
+    "parent_work_id": "LWD-W000004",
+    "complete": true,
+    "completeness_scope": "完整录入2010选本所收《三馀札记》单篇条目，不代表全卷或全书。"
+  },
+  {
+    "id": "LWD1999-V3-SWJC-NATIONAL-ZHENGXIE-1957",
+    "title": "在全國政協第二屆委員會第三次全體會議上的發言",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "從「主席、各位同志、位位朋友」至「在科研工作上，努力達到國際水平。」的1999收錄獨立演說全文。"
+  },
+  {
+    "id": "LWD1999-V3-SWJC-YUNNAN-ZHENGXIE-1956",
+    "title": "在雲南省政協第一屆第二次全體會議上的發言",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "從「主席、各位委員、各位同志」至「我願意為這個運動努力奮鬥！」，1999收錄的獨立演說全文。"
+  },
+  {
+    "id": "LWD2013-V5-TIJI-JINGJIE",
+    "title": "經解入門題記",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收錄選定版所載此篇題記，非手寫原件或人類終審定本。"
+  },
+  {
+    "id": "LWD2013-V5-TIJI-KUAI-WENZI",
+    "title": "蒯光典文字蒙求題記",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收錄選定版所載此篇題記，非手寫原件或人類終審定本。"
+  },
+  {
+    "id": "LWD2013-V5-TIJI-LAOZI",
+    "title": "景世德堂本老子題記",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收錄選定版所載此篇題記，非手寫原件或人類終審定本。"
+  },
+  {
+    "id": "LWD2013-V5-TIJI-LIUCHAO",
+    "title": "六朝文絜箋注題記",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收錄選定版所載此篇題記，非手寫原件或人類終審定本。"
+  },
+  {
+    "id": "LWD2013-V5-TIJI-SANYU",
+    "title": "三餘札記題記",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收錄選定版所載此篇題記，非手寫原件或人類終審定本。"
+  },
+  {
+    "id": "LWD2013-V5-TIJI-SHIJI",
+    "title": "史記題記",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收錄選定版所載此篇題記，非手寫原件或人類終審定本。"
+  },
+  {
+    "id": "LWD2013-V5-TIJI-SHUOKU",
+    "title": "說庫題記",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收錄選定版所載此篇題記，非手寫原件或人類終審定本。"
+  },
+  {
+    "id": "LWD2013-V5-TIJI-WENXUAN-YINYI",
+    "title": "余蕭客文選音義題記",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收錄選定版所載此篇題記，非手寫原件或人類終審定本。"
+  },
+  {
+    "id": "LWD2013-V5-TIJI-ZENG-JIASHU",
+    "title": "曾文正公家書題記",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收錄選定版所載此篇題記，非手寫原件或人類終審定本。"
+  },
+  {
+    "id": "LWD2013-V5-BERGSON",
+    "title": "柏格森之哲學（本版輯載；原標未完）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "PDF585/印566《柏格森之哲學》题下起，至PDF590/印571译者按「思過半矣。」止；包括本版所有前言、译文、小字夹注及篇末按语。complete仅指本版载稿单元完整；原文标未完，不声称原著或原刊连载完整。"
+  },
+  {
+    "id": "LWD2013-V5-LINGYILUN",
+    "title": "靈異論（赫克爾原著第三章節譯）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录2013增订本PDF590至605《靈異論》辑载单元，包括译者前言、译文及小字注；原题明确第三章节译，非原书全部或第三章全译之断言。"
+  },
+  {
+    "id": "CMP-ARAKI-KOKUMINSHO-YIXU-2010",
+    "title": "《日本陆军大臣荒木告全日本国民书》译序",
+    "work_id": null,
+    "parent_work_id": "LWD-W000013",
+    "complete": true,
+    "completeness_scope": "刘文典本人译序，非荒木贞夫原著正文，亦不冒充目录W74近题报刊政论。"
+  },
+  {
+    "id": "CMP-JINHUALUN-JIANGHUA-YIXU-2010",
+    "title": "《进化论讲话》译序",
+    "work_id": null,
+    "parent_work_id": "LWD-W000012",
+    "complete": true,
+    "completeness_scope": "刘文典本人所作译者序，不包含丘浅次郎原著或刘译全书正文。"
+  },
+  {
+    "id": "CMP-SHENGMING-BUKESIYI-YIXU-2010",
+    "title": "《生命之不可思议》译序",
+    "work_id": null,
+    "parent_work_id": "LWD-W000011",
+    "complete": true,
+    "completeness_scope": "刘文典所作译者序，不含外国作者原著或刘译全书正文。"
+  },
+  {
+    "id": "CMP-SHILIFEI-NIANPU-BA-2010",
+    "title": "《师荔扉先生年谱》跋",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": null
+  },
+  {
+    "id": "XN2010-06",
+    "title": "居庸关石壁造像",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "所据2010选本本条的标题至结束；不据此声称《宣南杂志》全书或原刊版本完整。"
+  },
+  {
+    "id": "XN2010-07",
+    "title": "暹罗在日本之北",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "所据2010选本本条的标题至结束；不据此声称《宣南杂志》全书或原刊版本完整。"
+  },
+  {
+    "id": "XN2010-12",
+    "title": "清理密亲王之死",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "所据2010选本本条标题至结束；不据此声称《宣南杂志》全书或原刊版本完整。"
+  },
+  {
+    "id": "XN2010-14",
+    "title": "达摩面壁石",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "所据2010选本本条标题至结束；不据此声称《宣南杂志》全书或原刊版本完整。"
+  },
+  {
+    "id": "XN2010-18",
+    "title": "燕京之不可建都（节录）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整转录2010选本附录《燕京之不可建都》的节录单元；只称本节录单元完整，不称完整原作。"
+  },
+  {
+    "id": "LWD1999-V3-XNZ-01",
+    "title": "清內閣大庫",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "1999本《宣南雜誌》〈清內閣大庫〉從題名後首字至下條題名前完整正文。"
+  },
+  {
+    "id": "LWD1999-V3-XNZ-02",
+    "title": "宋元人筆記",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "1999本《宣南雜誌》〈宋元人筆記〉從題名後首字至下條題名前完整正文。"
+  },
+  {
+    "id": "LWD1999-V3-XNZ-03",
+    "title": "蒙古文學",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "1999本《宣南雜誌》〈蒙古文學〉從題名後首字至下條題名前完整正文。"
+  },
+  {
+    "id": "LWD1999-V3-XNZ-04",
+    "title": "宣大女樂",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "1999本《宣南雜誌》〈宣大女樂〉從題名後首字至下條題名前完整正文。"
+  },
+  {
+    "id": "LWD1999-V3-XNZ-05",
+    "title": "燕都風俗",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "1999本《宣南雜誌》〈燕都風俗〉從題名後首字至下條題名前完整正文。"
+  },
+  {
+    "id": "LWD1999-V3-XNZ-08",
+    "title": "雞籠圖",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "1999本《宣南雜誌》〈雞籠圖〉正文自題名後首字至下條題名前完整；PDF694整頁《雞籠之圖》作附圖，不作正文段。"
+  },
+  {
+    "id": "LWD1999-V3-XNZ-09",
+    "title": "晁衡",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "1999本《宣南雜誌》本條自題名後首字至下條題名前完整；PDF694整頁圖屬前一條〈雞籠圖〉，不屬本條。"
+  },
+  {
+    "id": "LWD1999-V3-XNZ-10",
+    "title": "後村詩微旨",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "1999本《宣南雜誌》本條自題名後首字至下條題名前完整；另附PDF706校記（一）。"
+  },
+  {
+    "id": "LWD1999-V3-XNZ-11",
+    "title": "夕照寺",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "1999本《宣南雜誌》本條自題名後首字至下條題名前完整。"
+  },
+  {
+    "id": "LWD1999-V3-XNZ-13",
+    "title": "清世祖爲僧說",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "1999本《宣南雜誌》本條自題名後首字至下條題名前完整；PDF706校記與本兩條無直接註釋關係。"
+  },
+  {
+    "id": "LWD1999-V3-XNZ-15",
+    "title": "洪承疇之論鴉片",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "1999本《宣南雜誌》〈洪承疇之論鴉片〉正文自題名後首字至下條題名前完整；文末「（二）」為編者校記標號，原稿五字空缺不據猜測補入作者正文。"
+  },
+  {
+    "id": "LWD1999-V3-XNZ-16",
+    "title": "清列帝之不學",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "1999本《宣南雜誌》〈清列帝之不學〉正文自題名後首字至下條題名前完整。"
+  },
+  {
+    "id": "LWD1999-V3-XNZ-17",
+    "title": "日本名物",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "1999本《宣南雜誌》本條自題名後首字至下條題名前完整；PDF706校記與本兩條無直接註釋關係。"
+  },
+  {
+    "id": "LWD1999-V2-ZZBZ-XIAOYAOYOU",
+    "title": "逍遙遊第一",
+    "work_id": null,
+    "parent_work_id": "LWD-W000002",
+    "complete": true,
+    "completeness_scope": "完整收錄1999底本《逍遙遊第一》三十二頁篇文；PDF13題下資料納入；PDF44篇末典案收完後，兩條編者校記另列來源附記，PDF45另起《齊物論》。"
+  },
+  {
+    "id": "LWD1999-V2-ZZBZ-QIWULUN",
+    "title": "齊物論第二",
+    "work_id": null,
+    "parent_work_id": "LWD-W000002",
+    "complete": true,
+    "completeness_scope": "完整收錄1999底本《齊物論第二》五十八頁篇文；PDF45題下資料納入；PDF102篇末釋文收完後，一條編者校記另列來源附記，PDF103另起《養生主》。"
+  },
+  {
+    "id": "LWD1999-V2-ZZBZ-YANGSHENGZHU",
+    "title": "養生主第三",
+    "work_id": null,
+    "parent_work_id": "LWD-W000002",
+    "complete": true,
+    "completeness_scope": "《養生主第三》选定版全篇；PDF103起题，PDF115止正文，PDF116新篇界"
+  },
+  {
+    "id": "LWD1999-V2-ZZBZ-RENJIANSHI",
+    "title": "人間世第四",
+    "work_id": null,
+    "parent_work_id": "LWD-W000002",
+    "complete": true,
+    "completeness_scope": "選定版《人間世第四》篇首至 PDF159《釋文》「悗然　亡本反。」的完整正文；篇末《校記》不屬正文。"
+  },
+  {
+    "id": "LWD1999-V2-ZZBZ-DECHONGFU",
+    "title": "德充符第五",
+    "work_id": null,
+    "parent_work_id": "LWD-W000002",
+    "complete": true,
+    "completeness_scope": "選定版《德充符第五》篇首夾注至 PDF189 末條典案的完整章正文；篇末《校記》不屬正文。"
+  },
+  {
+    "id": "LWD1999-V2-ZZBZ-DAZONGSHI",
+    "title": "大宗師第六",
+    "work_id": null,
+    "parent_work_id": "LWD-W000002",
+    "complete": true,
+    "completeness_scope": "選定版《大宗師第六》篇首夾注至 PDF241 末段疏文的完整章正文；篇末《校記》排除。"
+  },
+  {
+    "id": "LWD1999-V2-ZZBZ-YINGDIWANG",
+    "title": "應帝王第七",
+    "work_id": null,
+    "parent_work_id": "LWD-W000002",
+    "complete": true,
+    "completeness_scope": "選定版《應帝王第七》篇首夾注至 PDF259 末段釋文的完整章正文；篇末《校記》排除。"
+  },
+  {
+    "id": "LWD1999-V2-ZZBZ-PIANMU",
+    "title": "駢拇第八",
+    "work_id": null,
+    "parent_work_id": "LWD-W000002",
+    "complete": true,
+    "completeness_scope": "選定版《駢拇第八》篇首夾注至 PDF276 末段釋文的完整章正文；PDF276–277 另立《校記》排除。"
+  },
+  {
+    "id": "LWD1999-V2-ZZBZ-MATI",
+    "title": "馬蹄第九",
+    "work_id": null,
+    "parent_work_id": "LWD-W000002",
+    "complete": true,
+    "completeness_scope": "選定版《馬蹄第九》篇首夾注至PDF287《胠篋第十》題前完整章正文；網站陳林羣說明不入正文。"
+  },
+  {
+    "id": "LWD1999-V2-ZZBZ-QUQIE",
+    "title": "胠篋第十",
+    "work_id": null,
+    "parent_work_id": "LWD-W000002",
+    "complete": true,
+    "completeness_scope": "選定版《胠篋第十》篇首夾注至PDF306《校記》題前章正文；印本校記獨立記錄。"
+  },
+  {
+    "id": "LWD1999-V2-ZZBZ-ZAIYOU",
+    "title": "在宥第十一",
+    "work_id": null,
+    "parent_work_id": "LWD-W000002",
+    "complete": true,
+    "completeness_scope": "選定版《在宥第十一》全章正文至『君臣亂矣。』；印本校記與其指出的37字誤入疏文另存。"
+  },
+  {
+    "id": "LWD1999-V2-ZZBZ-TIANDI",
+    "title": "天地第十二",
+    "work_id": null,
+    "parent_work_id": "LWD-W000002",
+    "complete": true,
+    "completeness_scope": "本篇已完整錄入所選 1999 底本 PDF337–378／印325–366；篇後編者《校記》另存，不計入正文。"
+  },
+  {
+    "id": "LWD1999-V2-ZZBZ-TIANDAO",
+    "title": "天道第十三",
+    "work_id": null,
+    "parent_work_id": "LWD-W000002",
+    "complete": true,
+    "completeness_scope": "1999《劉文典全集》第二冊《莊子補正·天道第十三》PDF379–406／印367–394全章。逐頁依原生頁圖校錄《莊子》本文、郭象注、成玄英疏、《釋文》、劉文典典案及所引王念孫、俞樾校說，分層標明；整章字數不可全算作劉文典原創。PDF406右側正文止於《釋文》「可傳直專反。注同。」；同頁左側三條編者《校記》另存，PDF407起《天運第十四》。已完成原圖逐頁首校、自校與獨立定點及接頁核對，全文逐字二校仍待完成；並非人類終審。"
+  },
+  {
+    "id": "LWD1999-V2-ZZBZ-TIANYUN",
+    "title": "天運第十四",
+    "work_id": null,
+    "parent_work_id": "LWD-W000002",
+    "complete": true,
+    "completeness_scope": "1999《劉文典全集》第二冊《莊子補正·天運第十四》PDF407–440／印395–428全章。逐頁依原生頁圖校錄《莊子》本文、郭象注、成玄英疏、《釋文》、劉文典典案及所引王念孫、俞樾校說，分層標明；整章字數不可全算作劉文典原創。PDF440正文止於老子答語「可！丘得之矣。」；同頁末及PDF441的三條編者《校記》另存，PDF442起《刻意第十五》。已完成原圖逐頁首校、自校與獨立定點及接頁核對，全文逐字二校仍待完成；並非人類終審。"
+  },
+  {
+    "id": "LWD1999-V2-ZZBZ-KEYI",
+    "title": "刻意第十五",
+    "work_id": null,
+    "parent_work_id": "LWD-W000002",
+    "complete": true,
+    "completeness_scope": "完整收錄1999底本《刻意第十五》全章10頁印本文字；前後篇及編者另列《校記》均不計入。"
+  },
+  {
+    "id": "LWD1999-V2-ZZBZ-SHANXING",
+    "title": "繕性第十六",
+    "work_id": null,
+    "parent_work_id": "LWD-W000002",
+    "complete": true,
+    "completeness_scope": "完整收錄1999底本《繕性第十六》全章11頁印本文字；篇末編者《校記》及下篇另列。"
+  },
+  {
+    "id": "LWD1999-V2-ZZBZ-QIUSHUI",
+    "title": "秋水第十七",
+    "work_id": null,
+    "parent_work_id": "LWD-W000002",
+    "complete": true,
+    "completeness_scope": "完整收錄1999底本《秋水第十七》全章40頁印本文字；前篇編者《校記》及下篇另列。"
+  },
+  {
+    "id": "LWD1999-V2-ZZBZ-ZHILE",
+    "title": "至樂第十八",
+    "work_id": null,
+    "parent_work_id": "LWD-W000002",
+    "complete": true,
+    "completeness_scope": "完整收錄1999底本《至樂第十八》全章17頁印本文字；章後編者《校記》及下篇另列。"
+  },
+  {
+    "id": "LWD1999-V2-ZZBZ-DASHENG",
+    "title": "達生第十九",
+    "work_id": null,
+    "parent_work_id": "LWD-W000002",
+    "complete": true,
+    "completeness_scope": "完整收錄1999底本《達生第十九》三十頁篇文；PDF576回指本篇的校記（一）至（三）另列來源附記，PDF549下半已起《山木》，不入本篇正文。"
+  },
+  {
+    "id": "LWD1999-V2-ZZBZ-SHANMU",
+    "title": "山木第二十",
+    "work_id": null,
+    "parent_work_id": "LWD-W000002",
+    "complete": true,
+    "completeness_scope": "完整收錄1999底本《山木第二十》二十八頁篇文；PDF576校記（四）至（六）另列來源附記，PDF577已起《田子方》，不入正文。"
+  },
+  {
+    "id": "LWD1999-V2-ZZBZ-TIANZIFANG",
+    "title": "田子方第二十一",
+    "work_id": null,
+    "parent_work_id": "LWD-W000002",
+    "complete": true,
+    "completeness_scope": "完整收錄1999底本《田子方第二十一》二十二頁篇文；PDF599已起《知北遊》，不入本篇。"
+  },
+  {
+    "id": "LWD1999-V2-ZZBZ-ZHIBEIYOU",
+    "title": "知北遊第二十二",
+    "work_id": null,
+    "parent_work_id": "LWD-W000002",
+    "complete": true,
+    "completeness_scope": "完整收錄1999底本《知北遊第二十二》三十頁篇文；PDF629校記（一）實屬前篇《田子方》，只有（二）（三）另列本篇來源附記，PDF630另起《庚桑楚》。"
+  },
+  {
+    "id": "LWD1999-V2-ZZBZ-GENGSANGCHU",
+    "title": "庚桑楚第二十三",
+    "work_id": null,
+    "parent_work_id": "LWD-W000002",
+    "complete": true,
+    "completeness_scope": "完整收錄1999底本《庚桑楚第二十三》三十八頁篇文；PDF667末欄成疏收完後，四條編者校記另列來源附記，PDF668另起《徐无鬼》。"
+  },
+  {
+    "id": "LWD1999-V2-ZZBZ-XUWUGUI",
+    "title": "徐无鬼第二十四",
+    "work_id": null,
+    "parent_work_id": "LWD-W000002",
+    "complete": true,
+    "completeness_scope": "完整收錄1999底本《徐无鬼第二十四》四十三頁篇文；PDF710篇末注疏釋文收完後，六條編者校記另列來源附記，PDF711另起《則陽》。"
+  },
+  {
+    "id": "LWD1999-V2-ZZBZ-ZEYANG",
+    "title": "則陽第二十五",
+    "work_id": null,
+    "parent_work_id": "LWD-W000002",
+    "complete": true,
+    "completeness_scope": "完整收錄1999底本《則陽第二十五》三十四頁篇文；PDF744校記（一）另列來源附記，PDF745已起《外物》，不入正文。"
+  },
+  {
+    "id": "LWD1999-V2-ZZBZ-WAIWU",
+    "title": "外物第二十六",
+    "work_id": null,
+    "parent_work_id": "LWD-W000002",
+    "complete": true,
+    "completeness_scope": "完整收錄1999底本《外物第二十六》二十二頁篇文；PDF780編者校記只記來源，不混入正文。"
+  },
+  {
+    "id": "LWD1999-V2-ZZBZ-YUYAN",
+    "title": "寓言第二十七",
+    "work_id": null,
+    "parent_work_id": "LWD-W000002",
+    "complete": true,
+    "completeness_scope": "完整收錄1999底本《寓言第二十七》十五頁文字；前後篇文字及不屬本篇的校記排除。"
+  },
+  {
+    "id": "LWD1999-V2-ZZBZ-RANGWANG",
+    "title": "讓王第二十八",
+    "work_id": null,
+    "parent_work_id": "LWD-W000002",
+    "complete": true,
+    "completeness_scope": "完整收錄1999底本《讓王第二十八》二十六頁篇文；PDF830相關編者校記僅記來源，不混入作者正文。"
+  },
+  {
+    "id": "LWD1999-V2-ZZBZ-DAOZHI",
+    "title": "盜跖第二十九",
+    "work_id": null,
+    "parent_work_id": "LWD-W000002",
+    "complete": true,
+    "completeness_scope": "完整收錄1999底本《盜跖第二十九》二十四頁篇文；PDF830相關編者校記僅記來源，不混入作者正文。"
+  },
+  {
+    "id": "LWD1999-V2-ZZBZ-SHUOJIAN",
+    "title": "說劍第三十",
+    "work_id": null,
+    "parent_work_id": "LWD-W000002",
+    "complete": true,
+    "completeness_scope": "完整收錄1999底本《說劍第三十》全篇八頁文字；同頁下篇《漁父》排除。"
+  },
+  {
+    "id": "LWD1999-V2-ZZBZ-YUFU",
+    "title": "漁父第三十一",
+    "work_id": null,
+    "parent_work_id": "LWD-W000002",
+    "complete": true,
+    "completeness_scope": "完整收錄1999底本《漁父第三十一》全篇十二頁文字；前後篇同頁文字排除。"
+  },
+  {
+    "id": "LWD1999-V2-ZZBZ-LIEYUKOU",
+    "title": "列禦寇第三十二",
+    "work_id": null,
+    "parent_work_id": "LWD-W000002",
+    "complete": true,
+    "completeness_scope": "完整收錄1999底本《列禦寇第三十二》全篇二十四頁文字及兩條原印校記；前後篇文字排除。"
+  },
+  {
+    "id": "LWD1999-V2-ZZBZ-TIANXIA",
+    "title": "天下第三十三",
+    "work_id": null,
+    "parent_work_id": "LWD-W000002",
+    "complete": true,
+    "completeness_scope": "完整收錄1999底本《天下第三十三》全篇四十頁文字及四條原印校記；同頁後續《補遺》排除。"
+  },
+  {
+    "id": "LWD1999-V2-ZZBZ-BUYI",
+    "title": "補遺（人間世篇、在宥篇）",
+    "work_id": null,
+    "parent_work_id": "LWD-W000002",
+    "complete": true,
+    "completeness_scope": "卷末《補遺》兩則全文；不含前置《天下》校記與後續跋文"
+  },
+  {
+    "id": "PUB-NDD-SHICHAO-CONGJUN-YETAN",
+    "title": "与从军友人夜谈归后却寄",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收录该网页所引四联八句；不代表《学稼轩诗钞》全书已取得，也不代表原始自印本逐字校定。"
+  },
+  {
+    "id": "PUB-NDD-SHICHAO-JIHUAI-KUNSHENG",
+    "title": "寄怀锟生",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收录该网页所引四联八句；不代表《学稼轩诗钞》全书已取得，也不代表原始自印本逐字校定。"
+  },
+  {
+    "id": "PUB-NDD-SHICHAO-SHANGJIANG",
+    "title": "上将(即席赋赠宋希濂将军)",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收录该网页所引四联八句；不代表《学稼轩诗钞》全书已取得，也不代表原始自印本逐字校定。"
+  },
+  {
+    "id": "PUB-NDD-SHICHAO-TONGGUANSHAO",
+    "title": "通关哨牌道中遇雨舆上口占",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收录该网页所引四联八句；不代表《学稼轩诗钞》全书已取得，也不代表原始自印本逐字校定。"
+  },
+  {
+    "id": "PUB-NDD-SHICHAO-ZENG-GANLICHU",
+    "title": "赠甘丽初将军",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": "完整收录该网页所引四联八句；不代表《学稼轩诗钞》全书已取得，也不代表原始自印本逐字校定。"
+  },
+  {
+    "id": "PUB-PKU-YOUGAN",
+    "title": "有感",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": null
+  },
+  {
+    "id": "PUB-SINA-DIANYUE-HEYINKE",
+    "title": "滇越道中和寅恪",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": null
+  },
+  {
+    "id": "PUB-THU-MEI25-XU",
+    "title": "梅校长任职二十五年纪念题名录序",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": null
+  },
+  {
+    "id": "PUB-YNU-RENCHEN-ZHONGQIU",
+    "title": "壬辰中秋进仁结婚诗以贺之（四首）",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": null
+  },
+  {
+    "id": "WS-342055-r1761276",
+    "title": "美國人之自由精神",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": null
+  },
+  {
+    "id": "WS-871173-r2765715",
+    "title": "回憶章太炎先生",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": null
+  },
+  {
+    "id": "WS-342056-r849734",
+    "title": "近世思想中之科學精神",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": null
+  },
+  {
+    "id": "WS-342058-r849732",
+    "title": "佛蘭克林自傳",
+    "work_id": null,
+    "parent_work_id": null,
+    "complete": true,
+    "completeness_scope": null
+  }
+]

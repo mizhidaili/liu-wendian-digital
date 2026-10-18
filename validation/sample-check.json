@@ -1,0 +1,20 @@
+{
+  "sample_sha256": "f071d01e450b0c45df30dc7352e7d2f584cc767472d64d57c4cec580860bea3e",
+  "sample_bytes": 1862626,
+  "article_bytes_identical_to_working_epub": true,
+  "source_images": 8,
+  "unresolved_marks": 2,
+  "xml_files_checked": 14,
+  "internal_links_checked": 58,
+  "reader_check": {
+    "application": "Calibre ebook-viewer",
+    "opened": true,
+    "search_phrase": "世界之本質",
+    "visible_matches": 2,
+    "toc_jump_to_first_page": true,
+    "text_image_round_trip": true,
+    "next_page": true,
+    "visual_body_check": true,
+    "scope": "Bounded reading check; not final editorial acceptance. Calibre reading-position metadata removed after the check; publication content unchanged."
+  }
+}
